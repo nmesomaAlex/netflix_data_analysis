@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,gender,age,state_of_origin,department,level,admission_year,attendance_percent,math_score,english_score,gpa,enrollment_status,fees_paid,email
+STU20260001,Uche,Bello,Female,16.0,Oyo,Computer Science,100,2022,57.3,70.0,66,4.08,Active,Partial,uche.bello1@student.example.com
+STU20260002,Fatima,Okafor,Female,24.0,Ebonyi,Microbiology,400,2024,57.1,60.0,88,3.56,Active,Yes,fatima.okafor2@student.example.com
+STU20260003,Kelechi,Bello,Male,17.0,Akwa Ibom,Microbiology,400,2026,64.7,83.0,47,2.7,Active,No,kelechi.bello3@student.example.com
+STU20260004,Amaka,Akinyemi,Female,20.0,Katsina,Accounting,200,2022,83.8,81.0,59,1.66,Active,No,amaka.akinyemi4@student.example.com
+STU20260005,Uche,Balogun,Female,18.0,Ebonyi,Physics,200,2023,56.5,82.0,80,2.43,Active,No,uche.balogun5@student.example.com
+STU20260006,Uche,Akinyemi,Male,19.0,Ondo,Mathematics,100,2023,57.6,76.0,42,1.61,Deferred,Partial,uche.akinyemi6@student.example.com
+STU20260007,Oluwaseun,Okeke,Female,19.0,Kaduna,Business Administration,200,2026,93.7,98.0,85,3.75,Active,Partial,oluwaseun.okeke7@student.example.com
+STU20260008,Daniel,Yusuf,Male,30.0,Bayelsa,Computer Science,100,2023,57.1,86.0,81,4.99,Active,Partial,daniel.yusuf8@student.example.com
+STU20260009,Blessing,Sani,Male,17.0,Abia,English,100,2026,77.8,84.0,83,3.14,Graduated,Partial,blessing.sani9@student.example.com
+STU20260010,Kelechi,Bello,Male,20.0,Yobe,Business Administration,100,2024,70.0,90.0,55,4.84,Graduated,Partial,kelechi.bello10@student.example.com
+STU20260011,Fatima,Adebayo,Female,18.0,Kwara,Political Science,100,2022,74.7,82.0,55,4.23,Deferred,No,fatima.adebayo11@student.example.com
+STU20260012,Bola,Adeyemi,Female,19.0,Cross River,English,400,2026,85.3,45.0,45,4.36,Active,Partial,bola.adeyemi12@student.example.com
+STU20260013,Fatima,Yusuf,Male,19.0,Plateau,Physics,400,2022,66.9,60.0,74,3.85,Active,Yes,fatima.yusuf13@student.example.com
+STU20260014,Kelechi,Okafor,Female,25.0,FCT,Accounting,100,2024,45.4,64.0,63,3.98,Active,Yes,kelechi.okafor14@student.example.com
+STU20260015,Emeka,Danjuma,Male,19.0,Ekiti,Accounting,100,2025,58.4,51.0,95,3.16,Active,No,emeka.danjuma15@student.example.com
+STU20260016,Samuel,Adeyemi,Female,26.0,Imo,Biology,200,2026,67.1,47.0,42,2.69,Active,No,samuel.adeyemi16@student.example.com
+STU20260017,Ifeanyi,Onyeka,Female,23.0,Anambra,English,100,2022,69.4,66.0,44,4.51,Deferred,Yes,ifeanyi.onyeka17@student.example.com
+STU20260018,Ifeanyi,Yusuf,Female,23.0,Ogun,Computer Science,400,2024,92.6,96.0,62,4.66,Deferred,No,ifeanyi.yusuf18@student.example.com
+STU20260019,Aisha,Yusuf,Female,27.0,Anambra,Microbiology,300,2022,55.4,97.0,54,2.26,Active,No,aisha.yusuf19@student.example.com
+STU20260020,David,Nwachukwu,Female,18.0,Imo,Mass Communication,100,2026,49.4,42.0,100,2.15,Active,Partial,david.nwachukwu20@student.example.com
+STU20260021,Chinedu,Sani,Male,17.0,Imo,Mathematics,400,2023,96.4,88.0,75,2.21,Active,No,chinedu.sani21@student.example.com
+STU20260022,Samuel,Okeke,Female,,Bauchi,Physics,200,2026,70.2,44.0,36,4.99,Active,No,samuel.okeke22@student.example.com
+STU20260023,Amaka,Olawale,Male,21.0,Zamfara,Computer Science,300,2022,69.1,71.0,55,3.4,Deferred,Yes,amaka.olawale23@student.example.com
+STU20260024,Emeka,Bello,Male,30.0,Enugu,English,300,2026,60.0,48.0,54,3.62,Active,Yes,emeka.bello24@student.example.com
+STU20260025,Amaka,Yusuf,Male,29.0,Ebonyi,Microbiology,400,2026,45.2,70.0,40,4.2,Graduated,Partial,amaka.yusuf25@student.example.com
+STU20260026,Ada,Bello,Female,17.0,Oyo,Business Administration,100,2024,90.9,54.0,39,3.54,Active,Yes,ada.bello26@student.example.com
+STU20260027,Chika,Adebayo,Male,26.0,Delta,Biology,200,2023,64.5,66.0,48,3.46,Deferred,Yes,chika.adebayo27@student.example.com
+STU20260028,Ifeanyi,Okeke,Female,28.0,Ogun,Computer Science,400,2023,59.7,87.0,66,4.26,Active,No,ifeanyi.okeke28@student.example.com
+STU20260029,Chika,Musa,Male,29.0,Kano,Accounting,300,2024,46.3,64.0,63,2.18,Active,No,chika.musa29@student.example.com
+STU20260030,Grace,Akinyemi,Male,21.0,Akwa Ibom,Accounting,400,2024,93.2,38.0,49,2.41,Graduated,No,grace.akinyemi30@student.example.com
+STU20260031,Blessing,Sani,Female,24.0,Oyo,Computer Science,200,2024,94.5,49.0,84,2.17,Active,Partial,blessing.sani31@student.example.com
+STU20260032,Kelechi,Sani,Male,21.0,Ondo,Microbiology,300,2026,72.9,50.0,73,3.83,Active,No,kelechi.sani32@student.example.com
+STU20260033,Grace,Obi,Male,26.0,Katsina,Biology,400,2026,67.3,57.0,73,4.42,Active,No,grace.obi33@student.example.com
+STU20260034,Samuel,Ojo,Female,23.0,Bayelsa,Mathematics,300,2022,71.0,62.0,100,4.65,Graduated,Yes,samuel.ojo34@student.example.com
+STU20260035,Grace,Musa,Male,19.0,Bauchi,Political Science,400,2026,46.3,60.0,53,2.36,Active,Partial,grace.musa35@student.example.com
+STU20260036,Femi,Danjuma,Female,22.0,Oyo,Biology,200,2026,81.1,66.0,53,1.52,Active,Partial,femi.danjuma36@student.example.com
+STU20260037,Bola,Bello,Male,23.0,Plateau,Chemistry,400,2026,81.7,52.0,94,4.96,Active,Yes,bola.bello37@student.example.com
+STU20260038,Peter,Danjuma,Male,23.0,Imo,Mathematics,400,2022,91.2,68.0,66,2.47,Graduated,Yes,peter.danjuma38@student.example.com
+STU20260039,Emeka,Okeke,Female,21.0,Enugu,Accounting,400,2025,53.3,45.0,52,2.84,Active,No,emeka.okeke39@student.example.com
+STU20260040,Blessing,Adeyemi,Female,19.0,Ogun,Political Science,100,2024,94.8,88.0,84,3.54,Active,No,blessing.adeyemi40@student.example.com
+STU20260041,Blessing,Akinyemi,Female,27.0,Ogun,Economics,400,2023,57.1,63.0,97,3.03,Graduated,Yes,blessing.akinyemi41@student.example.com
+STU20260042,Fatima,Akinyemi,Male,16.0,Edo,Computer Science,300,2025,49.6,85.0,38,3.0,Active,No,fatima.akinyemi42@student.example.com
+STU20260043,Kelechi,Okeke,Male,28.0,Bayelsa,Political Science,100,2026,86.4,83.0,70,4.41,Active,No,kelechi.okeke43@student.example.com
+STU20260044,Bola,Eze,Female,28.0,Delta,Biology,200,2025,97.2,40.0,38,2.2,Active,Partial,bola.eze44@student.example.com
+STU20260045,Ngozi,Ojo,Female,27.0,Ebonyi,Mathematics,100,2026,54.2,67.0,82,3.63,Active,No,ngozi.ojo45@student.example.com
+STU20260046,Daniel,Obi,Female,22.0,Benue,Microbiology,300,2026,77.6,60.0,44,4.41,Graduated,Partial,daniel.obi46@student.example.com
+STU20260047,Chinedu,Balogun,Female,24.0,Osun,Political Science,100,2025,48.8,89.0,82,3.77,Withdrawn,Partial,chinedu.balogun47@student.example.com
+STU20260048,Samuel,Nwosu,Male,22.0,Rivers,Mass Communication,300,2024,78.9,57.0,69,4.72,Deferred,Yes,samuel.nwosu48@student.example.com
+STU20260049,Emeka,Ojo,Male,19.0,Edo,Political Science,200,2024,63.5,94.0,83,3.23,Graduated,No,emeka.ojo49@student.example.com
+STU20260050,Emeka,Sani,Female,27.0,Osun,Political Science,200,2025,73.4,70.0,36,2.17,Active,No,emeka.sani50@student.example.com
+STU20260051,Samuel,Okafor,Male,17.0,Sokoto,Physics,300,2025,67.2,72.0,63,2.35,Withdrawn,Partial,samuel.okafor51@student.example.com
+STU20260052,Kelechi,Balogun,Female,27.0,Kwara,Accounting,200,2023,61.9,93.0,69,2.31,Active,No,kelechi.balogun52@student.example.com
+STU20260053,Emeka,Udo,Male,28.0,Edo,Mathematics,100,2026,90.8,71.0,47,2.54,Active,Yes,emeka.udo53@student.example.com
+STU20260054,Chinedu,Akinyemi,Male,20.0,Sokoto,Political Science,400,2024,50.6,51.0,97,1.54,Active,Yes,chinedu.akinyemi54@student.example.com
+STU20260055,Emeka,Danjuma,Female,17.0,Delta,Business Administration,300,2022,72.0,43.0,86,3.52,Withdrawn,Yes,emeka.danjuma55@student.example.com
+STU20260056,Esther,Yusuf,Male,25.0,Kogi,Chemistry,100,2026,69.8,63.0,83,3.05,Withdrawn,Yes,esther.yusuf56@student.example.com
+STU20260057,Ngozi,Adebayo,Female,20.0,Abia,Mass Communication,400,2026,58.2,45.0,55,3.43,Active,Yes,ngozi.adebayo57@student.example.com
+STU20260058,Bola,Musa,Male,27.0,Ekiti,Mass Communication,100,2026,48.9,71.0,93,2.32,Active,Yes,bola.musa58@student.example.com
+STU20260059,Emeka,Nwosu,Male,17.0,Plateau,Accounting,400,2024,88.6,42.0,56,3.58,Active,No,emeka.nwosu59@student.example.com
+STU20260060,David,Akinyemi,Male,23.0,Kaduna,Computer Science,100,2023,77.9,91.0,45,4.61,Withdrawn,Partial,david.akinyemi60@student.example.com
+STU20260061,Daniel,Okafor,Male,28.0,Kano,Business Administration,400,2025,87.0,69.0,40,2.11,Withdrawn,No,daniel.okafor61@student.example.com
+STU20260062,Chika,Yusuf,Male,21.0,Katsina,English,400,2026,92.2,76.0,48,2.65,Active,Yes,chika.yusuf62@student.example.com
+STU20260063,Kelechi,Onyeka,Female,21.0,Rivers,Mass Communication,100,2023,92.6,49.0,86,4.39,Active,Partial,kelechi.onyeka63@student.example.com
+STU20260064,Mary,Ojo,Male,28.0,Plateau,Microbiology,400,2022,59.7,41.0,61,1.96,Active,Partial,mary.ojo64@student.example.com
+STU20260065,Fatima,Olawale,Female,27.0,FCT,Accounting,400,2022,75.3,55.0,74,3.43,Active,Yes,fatima.olawale65@student.example.com
+STU20260066,Mary,Musa,Female,24.0,Rivers,Physics,200,2025,90.9,69.0,88,4.93,Active,Partial,mary.musa66@student.example.com
+STU20260067,David,Nwosu,Male,29.0,Yobe,Mathematics,100,2024,87.5,43.0,70,4.49,Graduated,Partial,david.nwosu67@student.example.com
+STU20260068,Daniel,Danjuma,Male,29.0,Rivers,Economics,200,2023,74.6,54.0,92,2.71,Active,Yes,daniel.danjuma68@student.example.com
+STU20260069,Blessing,Adeyemi,Female,21.0,Taraba,Computer Science,200,2026,66.2,95.0,83,3.82,Withdrawn,No,blessing.adeyemi69@student.example.com
+STU20260070,Tunde,Ojo,Female,17.0,Bauchi,Political Science,300,2024,84.7,93.0,36,2.93,Active,No,tunde.ojo70@student.example.com
+STU20260071,Uche,Eze,Male,29.0,Akwa Ibom,Chemistry,100,2023,97.5,77.0,83,3.69,Active,No,uche.eze71@student.example.com
+STU20260072,Bola,Eze,Female,22.0,Akwa Ibom,Economics,100,2024,69.4,47.0,47,3.93,Active,No,bola.eze72@student.example.com
+STU20260073,Zainab,Olawale,Male,24.0,Imo,Political Science,200,2023,54.3,87.0,58,1.78,Active,No,zainab.olawale73@student.example.com
+STU20260074,Samuel,Onyeka,Female,26.0,Bauchi,Political Science,300,2026,94.6,36.0,94,3.87,Active,No,samuel.onyeka74@student.example.com
+STU20260075,Oluwaseun,Onyeka,Female,23.0,Imo,Mass Communication,300,2026,100.0,73.0,60,4.49,Active,Partial,oluwaseun.onyeka75@student.example.com
+STU20260076,Aisha,Okafor,Female,29.0,Taraba,Mathematics,200,2026,45.4,85.0,70,4.53,Graduated,Yes,aisha.okafor76@student.example.com
+STU20260077,Uche,Adebayo,Female,25.0,Kogi,Political Science,100,2026,79.6,67.0,52,4.66,Active,Yes,uche.adebayo77@student.example.com
+STU20260078,Amaka,Musa,Male,21.0,Zamfara,Physics,300,2023,56.0,88.0,57,4.25,Active,No,amaka.musa78@student.example.com
+STU20260079,Aisha,Okeke,Female,28.0,Ondo,Physics,300,2022,98.0,,94,1.99,Graduated,Yes,aisha.okeke79@student.example.com
+STU20260080,Emeka,Akinyemi,Male,17.0,Niger,Accounting,200,2025,82.0,93.0,82,3.85,Active,Partial,emeka.akinyemi80@student.example.com
+STU20260081,Kelechi,Sani,Male,19.0,Borno,Business Administration,100,2022,95.0,43.0,94,2.56,Active,No,kelechi.sani81@student.example.com
+STU20260082,Tunde,Bello,Male,19.0,Delta,Mass Communication,100,2025,70.0,52.0,84,3.85,Active,No,tunde.bello82@student.example.com
+STU20260083,Chinedu,Balogun,Female,19.0,Niger,Physics,300,2022,97.3,91.0,91,4.49,Active,Yes,chinedu.balogun83@student.example.com
+STU20260084,Tunde,Ojo,Female,17.0,Enugu,Accounting,200,2026,47.8,62.0,37,2.67,Active,Yes,tunde.ojo84@student.example.com
+STU20260085,Kelechi,Nwosu,Female,28.0,Kaduna,Business Administration,100,2022,92.2,35.0,70,2.01,Active,No,kelechi.nwosu85@student.example.com
+STU20260086,Bola,Udo,Male,21.0,Zamfara,Accounting,100,2025,59.6,37.0,57,1.94,Active,No,bola.udo86@student.example.com
+STU20260087,David,Udo,Male,17.0,Rivers,English,100,2022,57.2,92.0,99,3.65,Withdrawn,No,david.udo87@student.example.com
+STU20260088,Blessing,Bello,Female,23.0,Bauchi,Business Administration,300,2026,94.5,91.0,44,2.63,Active,Partial,blessing.bello88@student.example.com
+STU20260089,Oluwaseun,Okeke,Female,22.0,Enugu,Mass Communication,400,2023,72.8,72.0,93,3.01,Active,No,oluwaseun.okeke89@student.example.com
+STU20260090,Femi,Yusuf,Male,27.0,Delta,English,400,2022,68.5,47.0,75,3.83,Active,Yes,femi.yusuf90@student.example.com
+STU20260091,Amaka,Yusuf,Male,17.0,Borno,Mass Communication,300,2025,75.6,82.0,51,3.55,Deferred,Partial,amaka.yusuf91@student.example.com
+STU20260092,Chinedu,Musa,Female,25.0,Sokoto,Biology,100,2024,50.7,74.0,80,3.28,Graduated,No,chinedu.musa92@student.example.com
+STU20260093,Tunde,Onyeka,Female,25.0,Kano,Computer Science,200,2024,91.5,63.0,89,4.91,Graduated,No,tunde.onyeka93@student.example.com
+STU20260094,Kelechi,Balogun,Female,16.0,Adamawa,Accounting,200,2025,76.1,58.0,53,2.9,Active,No,kelechi.balogun94@student.example.com
+STU20260095,Ifeanyi,Balogun,Female,20.0,Bayelsa,Mathematics,400,2025,93.6,76.0,45,2.04,Active,No,ifeanyi.balogun95@student.example.com
+STU20260096,Blessing,Onyeka,Male,19.0,Zamfara,English,300,2022,64.0,100.0,49,1.89,Active,Partial,blessing.onyeka96@student.example.com
+STU20260097,Chinedu,Okafor,Male,19.0,Kwara,Accounting,100,2025,87.2,73.0,62,4.17,Graduated,Yes,chinedu.okafor97@student.example.com
+STU20260098,Zainab,Obi,Male,24.0,Bauchi,Mass Communication,100,2025,75.7,64.0,99,3.84,Active,Yes,zainab.obi98@student.example.com
+STU20260099,Kelechi,Udo,Male,22.0,Ebonyi,Chemistry,400,2024,60.9,86.0,88,2.92,Active,,kelechi.udo99@student.example.com
+STU20260100,Bola,Yusuf,Male,25.0,FCT,Economics,200,2022,66.8,86.0,45,2.59,Active,Yes,bola.yusuf100@student.example.com
+STU20260101,David,Nwachukwu,Female,19.0,Imo,Accounting,200,2024,85.0,79.0,79,4.37,Active,Partial,david.nwachukwu101@student.example.com
+STU20260102,Zainab,Eze,Male,18.0,Kwara,English,300,2023,86.5,98.0,94,4.16,Active,No,zainab.eze102@student.example.com
+STU20260103,Samuel,Musa,Male,28.0,Plateau,Computer Science,100,2024,64.4,70.0,42,1.76,Graduated,Yes,samuel.musa103@student.example.com
+STU20260104,Uche,Eze,Female,25.0,Plateau,Chemistry,200,2024,70.4,99.0,84,3.44,Active,Partial,uche.eze104@student.example.com
+STU20260105,Zainab,Adeyemi,Female,23.0,Akwa Ibom,Biology,400,2025,99.0,48.0,78,1.8,Active,Partial,zainab.adeyemi105@student.example.com
+STU20260106,Ifeanyi,Balogun,Female,21.0,Lagos,Accounting,300,2022,67.5,71.0,84,2.68,Active,No,ifeanyi.balogun106@student.example.com
+STU20260107,Aisha,Onyeka,Male,27.0,Kogi,English,400,2023,49.5,54.0,77,3.82,Active,Yes,aisha.onyeka107@student.example.com
+STU20260108,Aisha,Akinyemi,Female,22.0,Oyo,Physics,300,2022,81.9,77.0,51,4.4,Active,Yes,aisha.akinyemi108@student.example.com
+STU20260109,Ngozi,Okeke,Female,28.0,Katsina,Accounting,100,2024,57.5,97.0,59,1.98,Deferred,Partial,ngozi.okeke109@student.example.com
+STU20260110,Zainab,Sani,Female,22.0,Plateau,Computer Science,400,2024,54.9,54.0,55,3.92,Active,Yes,zainab.sani110@student.example.com
+STU20260111,Samuel,Sani,Male,20.0,Ekiti,Economics,400,2025,74.4,92.0,64,2.58,Graduated,No,samuel.sani111@student.example.com
+STU20260112,David,Nwachukwu,Male,22.0,Anambra,English,400,2024,89.1,55.0,60,1.98,Active,Yes,david.nwachukwu112@student.example.com
+STU20260113,Oluwaseun,Nwachukwu,Male,29.0,Yobe,Business Administration,400,2022,49.6,50.0,71,2.06,Deferred,Yes,oluwaseun.nwachukwu113@student.example.com
+STU20260114,Samuel,Balogun,Female,30.0,Ogun,Accounting,300,2023,47.9,38.0,88,3.26,Active,Yes,samuel.balogun114@student.example.com
+STU20260115,Oluwaseun,Okeke,Male,28.0,Cross River,Microbiology,400,2025,47.1,53.0,52,4.71,Active,Yes,oluwaseun.okeke115@student.example.com
+STU20260116,Ada,Onyeka,Male,19.0,Borno,Computer Science,200,2025,51.1,54.0,89,2.51,Active,Partial,ada.onyeka116@student.example.com
+STU20260117,Samuel,Eze,Female,17.0,Katsina,Mass Communication,100,2026,79.8,98.0,37,3.51,Active,Partial,samuel.eze117@student.example.com
+STU20260118,Blessing,Ibrahim,Female,26.0,Ogun,Political Science,100,2025,48.7,45.0,81,3.34,Withdrawn,No,blessing.ibrahim118@student.example.com
+STU20260119,Peter,Okafor,Female,21.0,Lagos,Business Administration,100,2024,58.3,43.0,79,3.8,Active,Partial,peter.okafor119@student.example.com
+STU20260120,Ifeanyi,Ojo,Male,27.0,Akwa Ibom,Mathematics,200,2022,89.6,96.0,58,1.72,Graduated,Yes,ifeanyi.ojo120@student.example.com
+STU20260121,Kelechi,Musa,Female,24.0,Katsina,Economics,100,2024,58.9,85.0,95,4.14,Active,No,kelechi.musa121@student.example.com
+STU20260122,Blessing,Obi,Male,27.0,Niger,Physics,300,2022,63.6,91.0,84,2.15,Graduated,Yes,blessing.obi122@student.example.com
+STU20260123,Blessing,Sani,Male,29.0,Kogi,Political Science,400,2023,62.7,58.0,72,1.78,Active,No,blessing.sani123@student.example.com
+STU20260124,Samuel,Adeyemi,Female,27.0,Bauchi,English,400,2024,60.1,80.0,90,4.93,Active,Partial,samuel.adeyemi124@student.example.com
+STU20260125,Grace,Ibrahim,Male,16.0,Niger,Mass Communication,100,2026,46.9,53.0,91,1.74,Active,No,grace.ibrahim125@student.example.com
+STU20260126,Chika,Balogun,Male,23.0,Imo,Accounting,100,2023,74.1,44.0,52,2.89,Active,No,chika.balogun126@student.example.com
+STU20260127,Esther,Bello,Male,20.0,Ekiti,Accounting,200,2022,56.8,68.0,92,3.64,Active,Partial,esther.bello127@student.example.com
+STU20260128,Samuel,Eze,Male,28.0,Kogi,Business Administration,200,2024,84.0,75.0,79,3.42,Active,Yes,samuel.eze128@student.example.com
+STU20260129,Ngozi,Nwosu,Male,19.0,Cross River,Chemistry,100,2022,64.8,98.0,38,3.5,Active,Partial,ngozi.nwosu129@student.example.com
+STU20260130,Peter,Danjuma,Male,24.0,Bauchi,Political Science,400,2026,90.3,87.0,87,1.76,Active,Partial,peter.danjuma130@student.example.com
+STU20260131,Uche,Udo,Female,18.0,Zamfara,Business Administration,300,2023,72.7,51.0,90,4.54,Active,Partial,uche.udo131@student.example.com
+STU20260132,Bola,Balogun,Male,24.0,Cross River,English,300,2026,58.8,71.0,45,3.72,Active,,bola.balogun132@student.example.com
+STU20260133,Uche,Ibrahim,Male,25.0,Akwa Ibom,Computer Science,100,2022,81.2,54.0,56,4.02,Deferred,Partial,uche.ibrahim133@student.example.com
+STU20260134,Emeka,Adebayo,Male,28.0,Kogi,Political Science,200,2025,72.4,88.0,38,3.7,Active,Yes,emeka.adebayo134@student.example.com
+STU20260135,Oluwaseun,Adeyemi,Female,18.0,Kwara,Microbiology,300,2024,71.6,91.0,88,2.21,Withdrawn,Yes,oluwaseun.adeyemi135@student.example.com
+STU20260136,Chika,Nwachukwu,Male,24.0,Imo,Business Administration,100,2022,58.3,48.0,75,1.93,Active,No,chika.nwachukwu136@student.example.com
+STU20260137,Fatima,Yusuf,Female,19.0,Ebonyi,Political Science,400,2025,96.4,55.0,76,4.02,Deferred,No,fatima.yusuf137@student.example.com
+STU20260138,Ada,Eze,Male,22.0,Anambra,Computer Science,300,2025,98.2,99.0,93,,Active,Partial,ada.eze138@student.example.com
+STU20260139,Grace,Danjuma,Male,20.0,Ondo,Economics,100,2025,68.7,36.0,48,4.59,Active,Partial,grace.danjuma139@student.example.com
+STU20260140,Ngozi,Balogun,Male,24.0,Borno,Business Administration,100,2025,66.2,71.0,44,3.08,Active,No,ngozi.balogun140@student.example.com
+STU20260141,Esther,Balogun,Female,28.0,Akwa Ibom,Computer Science,200,2024,78.1,53.0,60,2.9,Graduated,Partial,esther.balogun141@student.example.com
+STU20260142,Samuel,Nwosu,Female,25.0,Ondo,Chemistry,300,2026,63.0,100.0,52,3.65,Active,Partial,samuel.nwosu142@student.example.com
+STU20260143,Esther,Danjuma,Female,27.0,Osun,Chemistry,300,2022,89.9,73.0,95,2.79,Active,No,esther.danjuma143@student.example.com
+STU20260144,Uche,Udo,Male,25.0,Delta,English,200,2022,77.1,64.0,41,2.1,Active,Partial,uche.udo144@student.example.com
+STU20260145,Tunde,Adebayo,Female,16.0,Osun,Physics,400,2022,68.0,91.0,75,2.95,Graduated,Partial,tunde.adebayo145@student.example.com
+STU20260146,Ngozi,Akinyemi,Male,21.0,Nasarawa,English,300,2026,62.3,96.0,83,2.11,Active,Yes,ngozi.akinyemi146@student.example.com
+STU20260147,Emeka,Akinyemi,Male,20.0,Kwara,Political Science,300,2026,87.4,63.0,73,3.97,Deferred,Partial,emeka.akinyemi147@student.example.com
+STU20260148,Emeka,Musa,Female,17.0,Katsina,Computer Science,300,2022,90.0,83.0,85,4.84,Active,No,emeka.musa148@student.example.com
+STU20260149,Uche,Onyeka,Male,27.0,Cross River,Accounting,200,2023,56.1,96.0,62,3.39,Active,Partial,uche.onyeka149@student.example.com
+STU20260150,Bola,Olawale,Female,16.0,Abia,Physics,200,2025,63.2,47.0,87,3.15,Active,No,bola.olawale150@student.example.com
+STU20260151,Mary,Adebayo,Female,28.0,FCT,Physics,100,2023,60.7,71.0,76,1.71,Active,Yes,mary.adebayo151@student.example.com
+STU20260152,Chinedu,Obi,Male,28.0,Akwa Ibom,Computer Science,300,2026,96.5,98.0,58,4.87,Active,No,chinedu.obi152@student.example.com
+STU20260153,Aisha,Ojo,Female,26.0,Borno,Economics,200,2025,91.8,98.0,52,3.14,Active,Partial,aisha.ojo153@student.example.com
+STU20260154,Ifeanyi,Okafor,Female,27.0,Ondo,Mass Communication,300,2022,76.2,78.0,72,4.15,Active,Yes,ifeanyi.okafor154@student.example.com
+STU20260155,Ifeanyi,Nwosu,Male,23.0,Kano,Economics,300,2026,45.4,76.0,66,2.84,Graduated,Yes,ifeanyi.nwosu155@student.example.com
+STU20260156,Emeka,Balogun,Female,27.0,Ondo,English,300,2022,81.7,65.0,42,3.13,Active,No,emeka.balogun156@student.example.com
+STU20260157,Chika,Sani,Male,19.0,Osun,Microbiology,400,2026,71.3,63.0,52,3.09,Graduated,Yes,chika.sani157@student.example.com
+STU20260158,Bola,Sani,Female,29.0,Anambra,Physics,200,2026,74.0,45.0,92,2.77,Active,Yes,bola.sani158@student.example.com
+STU20260159,Kelechi,Nwachukwu,Male,23.0,Anambra,Political Science,200,2026,84.4,49.0,61,3.21,Active,Partial,kelechi.nwachukwu159@student.example.com
+STU20260160,Chinedu,Akinyemi,Female,23.0,Bauchi,Computer Science,400,2024,66.8,74.0,37,4.36,Graduated,Partial,chinedu.akinyemi160@student.example.com
+STU20260161,Chinedu,Eze,Female,30.0,Osun,Economics,400,2025,60.8,95.0,39,2.13,Deferred,No,chinedu.eze161@student.example.com
+STU20260162,Femi,Eze,Male,26.0,Zamfara,Business Administration,200,2022,51.5,52.0,79,4.97,Graduated,No,femi.eze162@student.example.com
+STU20260163,Samuel,Akinyemi,Male,22.0,Ekiti,Microbiology,100,2022,58.6,83.0,64,2.71,Graduated,No,samuel.akinyemi163@student.example.com
+STU20260164,Fatima,Okafor,Female,19.0,Imo,Microbiology,100,2025,50.5,61.0,43,1.62,Active,Partial,fatima.okafor164@student.example.com
+STU20260165,Ngozi,Adeyemi,Male,18.0,Kwara,Biology,300,2023,57.9,99.0,72,4.71,Withdrawn,Partial,ngozi.adeyemi165@student.example.com
+STU20260166,Bola,Yusuf,Female,20.0,Oyo,Physics,400,2022,75.6,70.0,42,3.57,Withdrawn,Partial,bola.yusuf166@student.example.com
+STU20260167,Grace,Obi,Female,28.0,Sokoto,Biology,200,2024,67.5,75.0,88,2.55,Deferred,Yes,grace.obi167@student.example.com
+STU20260168,Samuel,Adeyemi,Female,24.0,Kaduna,Biology,300,2022,75.7,87.0,88,1.97,Deferred,No,samuel.adeyemi168@student.example.com
+STU20260169,Amaka,Akinyemi,Female,27.0,Bauchi,Biology,200,2025,59.8,59.0,41,3.86,Active,No,amaka.akinyemi169@student.example.com
+STU20260170,Aisha,Okafor,Female,19.0,Enugu,Mass Communication,200,2026,86.1,59.0,50,4.14,Active,No,aisha.okafor170@student.example.com
+STU20260171,Femi,Ojo,Male,24.0,Rivers,Accounting,400,2024,59.4,80.0,74,3.29,Deferred,No,femi.ojo171@student.example.com
+STU20260172,Kelechi,Yusuf,Male,16.0,Katsina,Business Administration,200,2024,45.9,63.0,53,3.44,Active,Partial,kelechi.yusuf172@student.example.com
+STU20260173,Bola,Danjuma,Male,24.0,Rivers,Business Administration,300,2023,87.0,78.0,67,3.21,Active,Partial,bola.danjuma173@student.example.com
+STU20260174,Mary,Ibrahim,Female,30.0,Abia,Mass Communication,200,2023,91.1,42.0,39,1.76,Active,Yes,mary.ibrahim174@student.example.com
+STU20260175,Ada,Adebayo,Male,24.0,Taraba,Computer Science,100,2026,48.3,93.0,82,3.73,Active,Yes,ada.adebayo175@student.example.com
+STU20260176,Ada,Nwachukwu,Male,27.0,Edo,Accounting,100,2026,45.9,70.0,71,4.35,Active,Yes,ada.nwachukwu176@student.example.com
+STU20260177,Fatima,Nwachukwu,Male,20.0,Rivers,Chemistry,200,2023,88.7,80.0,69,1.78,Active,Yes,fatima.nwachukwu177@student.example.com
+STU20260178,Uche,Adeyemi,Female,17.0,Ebonyi,Accounting,400,2025,65.7,86.0,83,3.17,Active,No,uche.adeyemi178@student.example.com
+STU20260179,Daniel,Bello,Male,30.0,Kano,Computer Science,100,2024,56.6,40.0,64,4.54,Deferred,Partial,daniel.bello179@student.example.com
+STU20260180,Grace,Adeyemi,Male,18.0,Bauchi,Mathematics,200,2026,97.9,75.0,37,3.55,Active,No,grace.adeyemi180@student.example.com
+STU20260181,Grace,Akinyemi,Female,21.0,Yobe,Microbiology,300,2022,88.5,84.0,52,3.91,Active,Yes,grace.akinyemi181@student.example.com
+STU20260182,Amaka,Okeke,Male,25.0,Taraba,Biology,300,2026,46.6,85.0,76,2.46,Deferred,No,amaka.okeke182@student.example.com
+STU20260183,Ifeanyi,Udo,Female,26.0,Bauchi,Accounting,300,2023,87.5,83.0,45,2.53,Active,Partial,ifeanyi.udo183@student.example.com
+STU20260184,Zainab,Obi,Male,21.0,Niger,Mathematics,100,2023,50.0,81.0,48,4.8,Active,No,zainab.obi184@student.example.com
+STU20260185,Samuel,Akinyemi,Female,24.0,Kwara,Mass Communication,100,2024,50.7,100.0,87,1.81,Active,Yes,samuel.akinyemi185@student.example.com
+STU20260186,Peter,Akinyemi,Male,30.0,Kogi,Mathematics,400,2023,82.7,66.0,56,2.09,Active,No,peter.akinyemi186@student.example.com
+STU20260187,Emeka,Yusuf,Male,20.0,Ekiti,Political Science,100,2023,64.9,96.0,44,4.8,Active,No,emeka.yusuf187@student.example.com
+STU20260188,Kelechi,Sani,Female,22.0,Kogi,Economics,200,2025,63.4,77.0,91,4.35,Active,No,kelechi.sani188@student.example.com
+STU20260189,Kelechi,Musa,Male,27.0,Niger,Accounting,200,2026,62.9,97.0,66,2.48,Withdrawn,Yes,kelechi.musa189@student.example.com
+STU20260190,Grace,Akinyemi,Female,16.0,Osun,English,400,2023,69.1,94.0,61,2.52,Active,Yes,grace.akinyemi190@student.example.com
+STU20260191,Emeka,Nwosu,Male,27.0,Ondo,,400,2026,49.1,89.0,83,4.97,Active,No,emeka.nwosu191@student.example.com
+STU20260192,Oluwaseun,Akinyemi,Male,25.0,Ebonyi,English,100,2026,87.3,45.0,48,3.8,Withdrawn,Partial,oluwaseun.akinyemi192@student.example.com
+STU20260193,Uche,Obi,Female,28.0,Yobe,Microbiology,200,2025,50.8,77.0,90,1.85,Active,No,uche.obi193@student.example.com
+STU20260194,Grace,Udo,Female,27.0,Katsina,Mass Communication,100,2022,64.0,99.0,54,1.59,Graduated,Partial,grace.udo194@student.example.com
+STU20260195,Zainab,Balogun,Male,20.0,Sokoto,Accounting,400,2025,88.1,78.0,93,3.32,Active,No,zainab.balogun195@student.example.com
+STU20260196,Chinedu,Bello,Female,16.0,Zamfara,Business Administration,200,2024,82.2,78.0,48,2.08,Active,No,chinedu.bello196@student.example.com
+STU20260197,Bola,Obi,Female,26.0,Ekiti,,400,2025,80.2,58.0,58,3.01,Active,Yes,bola.obi197@student.example.com
+STU20260198,Ngozi,Onyeka,Male,28.0,Kwara,Biology,400,2022,89.0,43.0,48,3.38,Active,No,ngozi.onyeka198@student.example.com
+STU20260199,David,Okeke,Male,25.0,Edo,English,300,2026,77.3,84.0,85,2.72,Active,Partial,david.okeke199@student.example.com
+STU20260200,Zainab,Okeke,Female,17.0,Yobe,Mass Communication,400,2026,51.4,65.0,74,2.81,Active,No,zainab.okeke200@student.example.com
+STU20260201,Blessing,Ibrahim,Male,23.0,Plateau,Chemistry,100,2024,71.9,57.0,56,1.99,Withdrawn,No,blessing.ibrahim201@student.example.com
+STU20260202,Zainab,Adebayo,Male,29.0,Osun,Microbiology,400,2025,80.9,84.0,99,2.93,Active,Partial,zainab.adebayo202@student.example.com
+STU20260203,Ada,Olawale,Male,20.0,Taraba,Physics,100,2026,57.4,39.0,70,2.51,Active,Partial,ada.olawale203@student.example.com
+STU20260204,Chika,Akinyemi,Female,29.0,Imo,Mathematics,100,2025,75.0,40.0,91,4.96,Active,Yes,chika.akinyemi204@student.example.com
+STU20260205,Samuel,Bello,Male,28.0,Oyo,Business Administration,200,2023,89.6,65.0,61,3.56,Graduated,Yes,samuel.bello205@student.example.com
+STU20260206,Daniel,Balogun,Male,24.0,Kano,Physics,100,2023,62.8,70.0,56,3.96,Withdrawn,No,daniel.balogun206@student.example.com
+STU20260207,Chinedu,Onyeka,Female,29.0,Ondo,Political Science,200,2026,58.7,51.0,51,3.99,Active,Partial,chinedu.onyeka207@student.example.com
+STU20260208,Blessing,Obi,Male,23.0,Rivers,Political Science,300,2026,67.2,44.0,46,4.12,Active,Partial,blessing.obi208@student.example.com
+STU20260209,Amaka,Ojo,Male,26.0,Enugu,Political Science,300,2024,88.8,80.0,43,2.89,Graduated,No,amaka.ojo209@student.example.com
+STU20260210,Esther,Udo,Female,18.0,Benue,English,400,2022,94.2,97.0,78,4.17,Active,Yes,esther.udo210@student.example.com
+STU20260211,Samuel,Ojo,Male,16.0,Ebonyi,Mathematics,100,2024,99.8,89.0,60,4.68,Active,No,samuel.ojo211@student.example.com
+STU20260212,Grace,Ibrahim,Male,16.0,Bayelsa,Microbiology,100,2022,84.9,85.0,74,4.14,Active,Yes,grace.ibrahim212@student.example.com
+STU20260213,Zainab,Udo,Female,19.0,Oyo,Microbiology,200,2025,45.4,91.0,36,2.7,Active,No,zainab.udo213@student.example.com
+STU20260214,Amaka,Bello,Female,17.0,Delta,Accounting,100,2026,93.5,75.0,82,1.98,Active,No,amaka.bello214@student.example.com
+STU20260215,Chika,Adebayo,Female,26.0,Bayelsa,Accounting,200,2022,78.9,54.0,87,3.05,Active,No,chika.adebayo215@student.example.com
+STU20260216,Chika,Yusuf,Male,21.0,Adamawa,English,300,2023,60.2,52.0,66,1.79,Active,Partial,chika.yusuf216@student.example.com
+STU20260217,Ngozi,Obi,Male,20.0,Bauchi,Physics,100,2024,72.2,41.0,65,1.89,Deferred,Yes,ngozi.obi217@student.example.com
+STU20260218,Femi,Udo,Female,22.0,Adamawa,Chemistry,100,2022,86.9,81.0,57,4.84,Active,Yes,femi.udo218@student.example.com
+STU20260219,Chinedu,Obi,Male,24.0,Bayelsa,English,200,2024,87.2,71.0,99,2.98,Active,Yes,chinedu.obi219@student.example.com
+STU20260220,David,Adebayo,Female,28.0,Kogi,Microbiology,400,2023,66.5,54.0,76,3.72,Active,Yes,david.adebayo220@student.example.com
+STU20260221,Blessing,Bello,Female,23.0,Borno,Computer Science,200,2022,81.6,42.0,74,3.8,Active,No,blessing.bello221@student.example.com
+STU20260222,David,Nwachukwu,Male,28.0,Borno,Computer Science,300,2025,65.5,68.0,56,4.12,Active,Yes,david.nwachukwu222@student.example.com
+STU20260223,Emeka,Udo,Male,26.0,Ebonyi,Economics,200,2024,70.0,44.0,98,2.76,Graduated,Partial,emeka.udo223@student.example.com
+STU20260224,Grace,Bello,Female,19.0,Akwa Ibom,Political Science,300,2025,47.4,100.0,35,4.52,Deferred,Yes,grace.bello224@student.example.com
+STU20260225,Chinedu,Akinyemi,Male,28.0,Kano,Accounting,300,2022,62.7,88.0,63,2.96,Active,Yes,chinedu.akinyemi225@student.example.com
+STU20260226,Ifeanyi,Olawale,Male,28.0,Kogi,Economics,100,2026,48.8,40.0,86,3.13,Active,No,ifeanyi.olawale226@student.example.com
+STU20260227,Ngozi,Musa,Male,25.0,Ekiti,Microbiology,200,2023,70.5,73.0,66,3.57,Active,No,ngozi.musa227@student.example.com
+STU20260228,Ada,Olawale,Male,24.0,Kogi,Accounting,200,2026,97.3,79.0,36,1.51,Withdrawn,No,ada.olawale228@student.example.com
+STU20260229,Mary,Adeyemi,Male,18.0,Niger,Political Science,100,2026,47.4,70.0,46,2.31,Active,Yes,mary.adeyemi229@student.example.com
+STU20260230,Uche,Obi,Male,17.0,Kaduna,Economics,400,2024,81.4,42.0,90,1.96,Active,No,uche.obi230@student.example.com
+STU20260231,Bola,Eze,Male,19.0,Kwara,Mass Communication,100,2026,53.5,52.0,48,2.08,Active,Yes,bola.eze231@student.example.com
+STU20260232,Samuel,Musa,Male,23.0,Akwa Ibom,Biology,300,2023,50.0,68.0,50,4.33,Active,Yes,samuel.musa232@student.example.com
+STU20260233,Chika,Obi,Female,24.0,Ondo,Political Science,200,2022,59.3,41.0,73,4.97,Active,Yes,chika.obi233@student.example.com
+STU20260234,Tunde,Okafor,Female,16.0,Kaduna,Accounting,100,2022,55.9,63.0,51,2.9,Active,Partial,tunde.okafor234@student.example.com
+STU20260235,Samuel,Nwosu,Female,17.0,Oyo,Microbiology,400,2025,47.3,77.0,50,3.11,Active,Partial,samuel.nwosu235@student.example.com
+STU20260236,Blessing,Ibrahim,Female,21.0,Akwa Ibom,Chemistry,200,2024,60.1,62.0,58,3.06,Active,Partial,blessing.ibrahim236@student.example.com
+STU20260237,Mary,Adeyemi,Female,17.0,Adamawa,Mass Communication,300,2025,52.5,70.0,84,2.2,Active,No,mary.adeyemi237@student.example.com
+STU20260238,Chika,Udo,Female,24.0,Adamawa,Mathematics,100,2025,59.9,76.0,84,1.59,Active,Partial,chika.udo238@student.example.com
+STU20260239,Bola,Ibrahim,Female,17.0,FCT,Chemistry,400,2024,59.7,66.0,65,4.36,Deferred,Yes,bola.ibrahim239@student.example.com
+STU20260240,Ifeanyi,Olawale,Male,25.0,Delta,Chemistry,200,2025,95.3,75.0,80,1.6,Active,Yes,ifeanyi.olawale240@student.example.com
+STU20260241,Mary,Adeyemi,Male,17.0,Abia,Economics,200,2023,78.1,,64,1.57,Active,Yes,mary.adeyemi241@student.example.com
+STU20260242,Kelechi,Adeyemi,Male,16.0,Bauchi,Economics,400,2026,87.6,53.0,53,4.46,Active,No,kelechi.adeyemi242@student.example.com
+STU20260243,Kelechi,Nwosu,Male,18.0,FCT,English,200,2025,80.7,90.0,97,2.11,Active,Partial,kelechi.nwosu243@student.example.com
+STU20260244,Aisha,Nwosu,Female,18.0,Edo,Chemistry,300,2026,91.8,35.0,85,4.2,Active,Partial,aisha.nwosu244@student.example.com
+STU20260245,Tunde,Danjuma,Female,18.0,Bayelsa,Microbiology,300,2025,58.1,77.0,44,4.94,Active,Yes,tunde.danjuma245@student.example.com
+STU20260246,Bola,Eze,Male,21.0,Osun,Business Administration,400,2025,84.6,67.0,48,1.67,Deferred,No,bola.eze246@student.example.com
+STU20260247,Esther,Obi,Female,17.0,Katsina,Computer Science,300,2024,53.9,96.0,63,1.76,Withdrawn,Yes,esther.obi247@student.example.com
+STU20260248,Kelechi,Ibrahim,Female,30.0,Lagos,Chemistry,400,2022,85.3,83.0,55,3.41,Active,Partial,kelechi.ibrahim248@student.example.com
+STU20260249,Ifeanyi,Sani,Female,30.0,Osun,Microbiology,300,2024,47.9,90.0,55,2.66,Active,Yes,ifeanyi.sani249@student.example.com
+STU20260250,Chinedu,Obi,Female,,Katsina,English,400,2023,48.0,97.0,54,1.51,Active,Yes,chinedu.obi250@student.example.com
+STU20260251,Ifeanyi,Musa,Male,17.0,Kaduna,Accounting,400,2023,62.0,95.0,49,2.89,Active,No,ifeanyi.musa251@student.example.com
+STU20260252,Chika,Ibrahim,Male,23.0,Anambra,Business Administration,100,2022,69.2,40.0,68,2.42,Active,Partial,chika.ibrahim252@student.example.com
+STU20260253,Blessing,Udo,Male,19.0,Imo,Political Science,300,2022,90.0,42.0,84,,Active,Partial,blessing.udo253@student.example.com
+STU20260254,Chinedu,Nwachukwu,Female,25.0,Enugu,Biology,200,2022,97.2,53.0,50,3.07,Active,Partial,chinedu.nwachukwu254@student.example.com
+STU20260255,Blessing,Adebayo,Female,29.0,Bayelsa,Mass Communication,400,2026,62.6,53.0,68,4.04,Active,No,blessing.adebayo255@student.example.com
+STU20260256,David,Ojo,Female,30.0,Benue,Chemistry,100,2024,51.2,36.0,88,2.02,Deferred,No,david.ojo256@student.example.com
+STU20260257,Blessing,Onyeka,Female,22.0,Ondo,Computer Science,400,2024,47.1,97.0,95,2.46,Active,Yes,blessing.onyeka257@student.example.com
+STU20260258,Peter,Danjuma,Male,30.0,Kogi,Mathematics,400,2022,46.1,69.0,82,4.36,Withdrawn,Yes,peter.danjuma258@student.example.com
+STU20260259,Zainab,Musa,Female,27.0,Ekiti,Political Science,200,2025,59.8,91.0,76,2.96,Graduated,Partial,zainab.musa259@student.example.com
+STU20260260,Chika,Adeyemi,Female,24.0,Zamfara,Chemistry,100,2023,62.1,55.0,43,3.27,Active,Yes,chika.adeyemi260@student.example.com
+STU20260261,Chinedu,Olawale,Male,16.0,Niger,Political Science,400,2022,95.5,93.0,41,3.97,Active,Yes,chinedu.olawale261@student.example.com
+STU20260262,Chika,Danjuma,Male,25.0,Nasarawa,Business Administration,300,2022,97.8,92.0,57,3.16,Active,No,chika.danjuma262@student.example.com
+STU20260263,Chinedu,Ibrahim,Male,29.0,Osun,Physics,100,2022,80.6,62.0,63,3.87,Active,Yes,chinedu.ibrahim263@student.example.com
+STU20260264,Uche,Ibrahim,Male,25.0,Kano,Mass Communication,400,2024,58.9,36.0,63,4.32,Active,Yes,uche.ibrahim264@student.example.com
+STU20260265,Samuel,Musa,Male,26.0,Katsina,Mathematics,100,2025,45.4,85.0,48,5.0,Active,No,samuel.musa265@student.example.com
+STU20260266,Uche,Okeke,Male,29.0,Ekiti,Business Administration,200,2022,81.1,70.0,68,4.83,Graduated,Partial,uche.okeke266@student.example.com
+STU20260267,Femi,Okeke,Male,26.0,Osun,Mass Communication,400,2022,81.0,52.0,38,4.99,Active,Partial,femi.okeke267@student.example.com
+STU20260268,Ngozi,Okeke,Male,27.0,Ebonyi,English,200,2024,,63.0,95,3.85,Active,Yes,ngozi.okeke268@student.example.com
+STU20260269,Peter,Onyeka,Female,27.0,Kogi,Mass Communication,300,2024,81.0,58.0,77,2.28,Active,No,peter.onyeka269@student.example.com
+STU20260270,Samuel,Bello,Female,23.0,Ogun,Physics,300,2025,,41.0,44,2.18,Active,Yes,samuel.bello270@student.example.com
+STU20260271,Zainab,Adebayo,Female,21.0,Bayelsa,Political Science,300,2023,52.9,87.0,93,4.52,Active,Yes,zainab.adebayo271@student.example.com
+STU20260272,Ada,Ojo,Female,20.0,Cross River,Chemistry,400,2025,76.7,61.0,56,2.05,Active,No,ada.ojo272@student.example.com
+STU20260273,Femi,Okafor,Female,16.0,Adamawa,English,100,2023,97.3,60.0,82,4.62,Active,No,femi.okafor273@student.example.com
+STU20260274,Aisha,Nwosu,Female,17.0,Kogi,Mathematics,400,2026,77.4,84.0,99,2.08,Active,No,aisha.nwosu274@student.example.com
+STU20260275,Blessing,Nwosu,Male,21.0,Adamawa,Biology,200,2023,86.3,97.0,80,2.08,Active,Yes,blessing.nwosu275@student.example.com
+STU20260276,Daniel,Nwachukwu,Male,18.0,Kaduna,Physics,100,2026,84.1,50.0,81,4.27,Withdrawn,Partial,daniel.nwachukwu276@student.example.com
+STU20260277,Tunde,Okafor,Male,16.0,Sokoto,Microbiology,200,2023,69.4,49.0,88,1.93,Active,Partial,tunde.okafor277@student.example.com
+STU20260278,Ada,Musa,Male,22.0,Benue,Physics,100,2024,79.3,47.0,69,3.95,Active,Yes,ada.musa278@student.example.com
+STU20260279,Mary,Adebayo,Male,25.0,Osun,Mathematics,200,2022,90.7,60.0,68,4.91,Active,Yes,mary.adebayo279@student.example.com
+STU20260280,Oluwaseun,Danjuma,Female,21.0,Taraba,Business Administration,100,2026,45.7,65.0,35,1.81,Active,Partial,oluwaseun.danjuma280@student.example.com
+STU20260281,Tunde,Onyeka,Male,26.0,Anambra,Accounting,200,2022,99.4,64.0,93,2.54,Deferred,No,tunde.onyeka281@student.example.com
+STU20260282,Grace,Okeke,Female,22.0,Cross River,English,200,2024,91.8,49.0,47,4.62,Active,No,grace.okeke282@student.example.com
+STU20260283,Fatima,Onyeka,Male,30.0,Ondo,Political Science,300,2025,89.8,46.0,82,2.14,Active,No,fatima.onyeka283@student.example.com
+STU20260284,Blessing,Ibrahim,Female,17.0,Osun,Chemistry,400,2026,99.0,51.0,42,4.46,Active,Yes,blessing.ibrahim284@student.example.com
+STU20260285,Fatima,Obi,Female,28.0,Sokoto,Political Science,100,2025,92.4,80.0,38,4.58,Active,Yes,fatima.obi285@student.example.com
+STU20260286,Emeka,Okeke,Female,16.0,Oyo,English,200,2025,73.6,63.0,78,3.91,Active,Partial,emeka.okeke286@student.example.com
+STU20260287,Uche,Obi,Male,18.0,Taraba,Business Administration,100,2025,80.4,41.0,36,2.05,Active,No,uche.obi287@student.example.com
+STU20260288,Emeka,Adeyemi,Male,24.0,Plateau,Chemistry,400,2022,67.2,63.0,83,2.32,Deferred,No,emeka.adeyemi288@student.example.com
+STU20260289,Kelechi,Bello,Female,23.0,Bayelsa,Chemistry,300,2026,67.2,37.0,48,1.63,Active,Partial,kelechi.bello289@student.example.com
+STU20260290,Grace,Ojo,Male,21.0,Sokoto,Microbiology,300,2025,89.9,81.0,41,4.46,Active,Partial,grace.ojo290@student.example.com
+STU20260291,Bola,Okafor,Female,21.0,Akwa Ibom,Business Administration,400,2023,75.1,80.0,72,2.81,Graduated,Partial,bola.okafor291@student.example.com
+STU20260292,Peter,Yusuf,Male,17.0,Enugu,Political Science,200,2024,55.3,67.0,60,4.76,Active,No,peter.yusuf292@student.example.com
+STU20260293,Chinedu,Udo,Female,17.0,Taraba,Computer Science,100,2026,81.2,92.0,93,4.85,Deferred,Partial,chinedu.udo293@student.example.com
+STU20260294,Mary,Nwachukwu,Male,28.0,Kwara,Physics,400,2025,85.2,57.0,57,1.95,Withdrawn,Partial,mary.nwachukwu294@student.example.com
+STU20260295,Bola,Onyeka,Male,22.0,Yobe,Mathematics,300,2026,69.9,78.0,72,1.97,Active,Yes,bola.onyeka295@student.example.com
+STU20260296,Ngozi,Sani,Female,27.0,Yobe,Physics,300,2022,95.7,72.0,79,1.96,Graduated,Partial,ngozi.sani296@student.example.com
+STU20260297,Mary,Udo,Female,25.0,Zamfara,Accounting,100,2025,93.3,88.0,71,2.98,Active,Partial,mary.udo297@student.example.com
+STU20260298,Chinedu,Adebayo,Female,20.0,Katsina,Biology,100,2024,82.6,55.0,71,2.01,Graduated,Yes,chinedu.adebayo298@student.example.com
+STU20260299,Fatima,Akinyemi,Male,29.0,Anambra,Mass Communication,400,2025,58.1,63.0,84,4.25,Withdrawn,Partial,fatima.akinyemi299@student.example.com
+STU20260300,Kelechi,Akinyemi,Male,16.0,FCT,English,300,2026,56.2,36.0,67,4.54,Active,Partial,kelechi.akinyemi300@student.example.com
+STU20260301,Ngozi,Adebayo,Female,20.0,Yobe,Accounting,400,2022,99.1,92.0,57,1.76,Active,Partial,ngozi.adebayo301@student.example.com
+STU20260302,Emeka,Nwosu,Female,18.0,Akwa Ibom,Business Administration,300,2026,63.2,67.0,35,3.98,Active,Partial,emeka.nwosu302@student.example.com
+STU20260303,Fatima,Musa,Female,23.0,Edo,Physics,100,2026,88.1,80.0,44,2.61,Active,Partial,fatima.musa303@student.example.com
+STU20260304,Esther,Obi,Male,17.0,Niger,Mathematics,200,2026,93.6,79.0,63,3.82,Active,Partial,esther.obi304@student.example.com
+STU20260305,Uche,Okafor,Female,17.0,Akwa Ibom,English,300,2025,58.2,79.0,92,3.75,Deferred,Yes,uche.okafor305@student.example.com
+STU20260306,Femi,Onyeka,Male,24.0,Yobe,Physics,400,2025,95.1,71.0,38,4.38,Active,Partial,femi.onyeka306@student.example.com
+STU20260307,Ngozi,Okeke,Female,24.0,Bauchi,Biology,200,2025,54.2,45.0,47,4.85,Graduated,Yes,ngozi.okeke307@student.example.com
+STU20260308,Esther,Yusuf,Female,26.0,Bayelsa,Accounting,100,2023,46.3,44.0,54,4.01,Graduated,Partial,esther.yusuf308@student.example.com
+STU20260309,Amaka,Udo,Male,29.0,Oyo,Economics,100,2025,67.4,64.0,68,3.08,Active,Partial,amaka.udo309@student.example.com
+STU20260310,Ada,Sani,Male,17.0,Kogi,Chemistry,100,2024,64.7,40.0,44,3.26,Graduated,No,ada.sani310@student.example.com
+STU20260311,Femi,Obi,Male,29.0,Katsina,English,200,2024,53.6,38.0,95,2.27,Active,Partial,femi.obi311@student.example.com
+STU20260312,Uche,Balogun,Male,16.0,Bayelsa,Mathematics,200,2024,47.3,53.0,50,3.5,Active,Partial,uche.balogun312@student.example.com
+STU20260313,David,Nwosu,Female,18.0,Edo,English,100,2026,78.9,58.0,63,2.38,Active,Partial,david.nwosu313@student.example.com
+STU20260314,Amaka,Musa,Male,26.0,Lagos,Economics,200,2023,50.4,43.0,67,4.04,Active,Partial,amaka.musa314@student.example.com
+STU20260315,Amaka,Adebayo,Female,21.0,Niger,Economics,400,2023,63.1,97.0,92,3.81,Active,Yes,amaka.adebayo315@student.example.com
+STU20260316,Bola,Yusuf,Male,20.0,Rivers,Political Science,300,2024,82.4,81.0,52,2.66,Active,Yes,bola.yusuf316@student.example.com
+STU20260317,Ifeanyi,Sani,Female,17.0,Bauchi,Computer Science,100,2026,94.0,70.0,52,2.19,Active,Partial,ifeanyi.sani317@student.example.com
+STU20260318,Ngozi,Adeyemi,Male,24.0,FCT,Chemistry,300,2023,81.0,68.0,95,2.02,Active,Partial,ngozi.adeyemi318@student.example.com
+STU20260319,Amaka,Obi,Female,21.0,Yobe,Business Administration,400,2023,81.4,99.0,36,4.47,Active,Partial,amaka.obi319@student.example.com
+STU20260320,Grace,Nwosu,Female,27.0,Bauchi,Mathematics,300,2023,47.2,96.0,80,4.17,Active,Yes,grace.nwosu320@student.example.com
+STU20260321,David,Balogun,Male,22.0,Benue,Microbiology,300,2024,93.5,95.0,93,1.64,Active,Partial,david.balogun321@student.example.com
+STU20260322,Ifeanyi,Obi,Female,26.0,Zamfara,Mathematics,400,2023,77.3,83.0,81,4.64,Active,,ifeanyi.obi322@student.example.com
+STU20260323,Chika,Danjuma,Female,28.0,FCT,Accounting,300,2023,72.6,96.0,35,1.99,Active,Yes,chika.danjuma323@student.example.com
+STU20260324,Chika,Sani,Female,27.0,Sokoto,English,400,2025,67.8,50.0,64,2.66,Active,Yes,chika.sani324@student.example.com
+STU20260325,Uche,Yusuf,Female,16.0,Yobe,Computer Science,200,2022,52.0,66.0,40,3.57,Active,Yes,uche.yusuf325@student.example.com
+STU20260326,David,Obi,Male,25.0,Sokoto,Business Administration,200,2025,97.1,37.0,71,2.26,Active,Partial,david.obi326@student.example.com
+STU20260327,Ifeanyi,Sani,Male,26.0,Bauchi,Biology,400,2025,54.2,100.0,68,3.9,Active,Yes,ifeanyi.sani327@student.example.com
+STU20260328,Ngozi,Nwachukwu,Female,29.0,Sokoto,Chemistry,100,2026,90.5,,88,3.62,Active,Yes,ngozi.nwachukwu328@student.example.com
+STU20260329,Amaka,Danjuma,Male,26.0,Zamfara,Mass Communication,300,2022,94.3,51.0,35,4.21,Active,No,amaka.danjuma329@student.example.com
+STU20260330,Bola,Danjuma,Female,28.0,Oyo,Business Administration,300,2025,77.4,83.0,79,,Graduated,Yes,bola.danjuma330@student.example.com
+STU20260331,Aisha,Sani,Female,30.0,Zamfara,Accounting,100,2025,55.4,87.0,67,3.98,Active,Partial,aisha.sani331@student.example.com
+STU20260332,Kelechi,Yusuf,Male,21.0,Oyo,Chemistry,300,2026,68.4,48.0,54,3.55,Active,Partial,kelechi.yusuf332@student.example.com
+STU20260333,Femi,Adebayo,Male,22.0,Kogi,Chemistry,300,2025,65.4,96.0,57,3.44,Graduated,Partial,femi.adebayo333@student.example.com
+STU20260334,Tunde,Olawale,Male,23.0,Anambra,Business Administration,400,2022,56.8,55.0,47,2.9,Graduated,Yes,tunde.olawale334@student.example.com
+STU20260335,Mary,Sani,Female,22.0,Ogun,Mass Communication,300,2026,59.5,46.0,43,2.8,Active,Yes,mary.sani335@student.example.com
+STU20260336,Uche,Danjuma,Male,23.0,Ekiti,Computer Science,200,2026,91.8,36.0,60,4.76,Active,Yes,uche.danjuma336@student.example.com
+STU20260337,Chika,Olawale,Male,26.0,Nasarawa,English,400,2025,49.8,35.0,55,2.47,Active,Partial,chika.olawale337@student.example.com
+STU20260338,Ada,Eze,Male,30.0,Nasarawa,Mathematics,200,2026,84.9,46.0,71,3.46,Withdrawn,No,ada.eze338@student.example.com
+STU20260339,Femi,Udo,Female,16.0,Yobe,Mathematics,300,2022,67.4,68.0,57,1.87,Graduated,No,femi.udo339@student.example.com
+STU20260340,Esther,Udo,Male,20.0,Rivers,English,400,2026,76.0,91.0,83,4.19,Deferred,No,esther.udo340@student.example.com
+STU20260341,Tunde,Onyeka,Male,17.0,Osun,Economics,100,2024,82.2,83.0,63,2.3,Active,Yes,tunde.onyeka341@student.example.com
+STU20260342,Femi,Okeke,Male,17.0,Edo,Microbiology,200,2025,62.3,57.0,95,2.26,Graduated,Yes,femi.okeke342@student.example.com
+STU20260343,Peter,Olawale,Male,29.0,Delta,Accounting,100,2022,57.6,68.0,61,4.42,Active,Partial,peter.olawale343@student.example.com
+STU20260344,Mary,Sani,Male,16.0,Taraba,Business Administration,300,2025,65.4,40.0,96,2.6,Active,Partial,mary.sani344@student.example.com
+STU20260345,Zainab,Adeyemi,Male,24.0,Ondo,English,200,2025,96.7,89.0,96,1.61,Withdrawn,Partial,zainab.adeyemi345@student.example.com
+STU20260346,David,Ojo,Female,21.0,Kwara,Economics,300,2023,82.1,36.0,36,2.83,Active,Yes,david.ojo346@student.example.com
+STU20260347,Emeka,Danjuma,Male,25.0,Niger,Economics,400,2024,55.1,78.0,81,2.98,Active,Partial,emeka.danjuma347@student.example.com
+STU20260348,Zainab,Udo,Male,26.0,Ogun,Biology,200,2023,84.6,64.0,47,4.31,Active,Yes,zainab.udo348@student.example.com
+STU20260349,Ifeanyi,Yusuf,Female,23.0,Ondo,Accounting,200,2022,88.2,52.0,75,2.55,Active,No,ifeanyi.yusuf349@student.example.com
+STU20260350,Mary,Bello,Male,23.0,Nasarawa,Computer Science,400,2022,64.9,77.0,68,3.46,Active,Partial,mary.bello350@student.example.com
+STU20260351,Fatima,Adebayo,Male,25.0,Plateau,Accounting,400,2026,64.5,57.0,71,3.86,Active,Partial,fatima.adebayo351@student.example.com
+STU20260352,Zainab,Ibrahim,Female,26.0,Bayelsa,Business Administration,300,2023,79.7,78.0,88,3.5,Active,Partial,zainab.ibrahim352@student.example.com
+STU20260353,Aisha,Onyeka,Male,25.0,Zamfara,Political Science,400,2023,93.8,85.0,69,4.23,Active,Yes,aisha.onyeka353@student.example.com
+STU20260354,Zainab,Olawale,Female,26.0,Bauchi,Political Science,100,2022,56.6,67.0,45,2.89,Graduated,Partial,zainab.olawale354@student.example.com
+STU20260355,Amaka,Bello,Male,20.0,FCT,Biology,300,2025,81.0,54.0,45,4.6,Active,Yes,amaka.bello355@student.example.com
+STU20260356,David,Ibrahim,Male,16.0,Rivers,Physics,300,2026,92.3,39.0,80,2.64,Active,Partial,david.ibrahim356@student.example.com
+STU20260357,Esther,Ibrahim,Male,25.0,Nasarawa,Political Science,200,2022,73.8,93.0,90,3.74,Active,No,esther.ibrahim357@student.example.com
+STU20260358,Blessing,Onyeka,Female,18.0,Nasarawa,Mathematics,400,2026,45.0,73.0,36,4.35,Active,No,blessing.onyeka358@student.example.com
+STU20260359,Mary,Musa,Male,16.0,Ekiti,Mass Communication,400,2025,77.8,90.0,72,4.29,Active,Partial,mary.musa359@student.example.com
+STU20260360,Peter,Obi,Female,29.0,Zamfara,Chemistry,300,2024,59.5,83.0,63,2.98,Active,Partial,peter.obi360@student.example.com
+STU20260361,Emeka,Yusuf,Male,19.0,Plateau,Mathematics,400,2023,52.5,43.0,58,1.89,Active,Yes,emeka.yusuf361@student.example.com
+STU20260362,Chinedu,Akinyemi,Male,16.0,Abia,Biology,100,2023,60.5,58.0,48,1.94,Active,Yes,chinedu.akinyemi362@student.example.com
+STU20260363,Kelechi,Yusuf,Male,20.0,Bayelsa,Business Administration,100,2024,70.5,98.0,82,4.27,Graduated,Yes,kelechi.yusuf363@student.example.com
+STU20260364,Esther,Danjuma,Female,18.0,Imo,Mass Communication,400,2023,89.9,59.0,67,4.4,Graduated,Yes,esther.danjuma364@student.example.com
+STU20260365,Ngozi,Ojo,Male,27.0,Kwara,Business Administration,100,2026,71.0,47.0,61,3.89,Active,No,ngozi.ojo365@student.example.com
+STU20260366,Mary,Musa,Female,19.0,Imo,English,400,2024,92.5,,41,2.26,Active,No,mary.musa366@student.example.com
+STU20260367,Daniel,Bello,Male,22.0,Delta,Economics,100,2023,98.3,66.0,36,3.53,Active,Yes,daniel.bello367@student.example.com
+STU20260368,Grace,Sani,Female,21.0,Cross River,Political Science,200,2024,64.6,42.0,42,2.04,Withdrawn,Partial,grace.sani368@student.example.com
+STU20260369,Chika,Ojo,Female,27.0,Kaduna,Computer Science,400,2025,82.9,59.0,37,2.75,Active,Partial,chika.ojo369@student.example.com
+STU20260370,Oluwaseun,Danjuma,Female,19.0,Bauchi,Physics,200,2025,62.8,58.0,79,3.14,Active,No,oluwaseun.danjuma370@student.example.com
+STU20260371,Esther,Balogun,Female,23.0,Niger,Chemistry,200,2024,65.8,35.0,99,2.15,Graduated,Partial,esther.balogun371@student.example.com
+STU20260372,Esther,Obi,Male,19.0,Borno,Accounting,100,2022,78.7,98.0,54,2.63,Graduated,Yes,esther.obi372@student.example.com
+STU20260373,Ifeanyi,Adeyemi,Male,19.0,Taraba,Physics,300,2022,,48.0,97,1.61,Active,Partial,ifeanyi.adeyemi373@student.example.com
+STU20260374,Oluwaseun,Eze,Male,16.0,Anambra,Economics,400,2024,,61.0,97,4.41,Graduated,Yes,oluwaseun.eze374@student.example.com
+STU20260375,Fatima,Onyeka,Female,24.0,Zamfara,Accounting,100,2023,90.9,40.0,44,1.77,Active,Yes,fatima.onyeka375@student.example.com
+STU20260376,Ngozi,Nwachukwu,Female,26.0,Nasarawa,English,400,2025,75.7,66.0,57,3.45,Deferred,Yes,ngozi.nwachukwu376@student.example.com
+STU20260377,Ifeanyi,Akinyemi,Male,22.0,Nasarawa,Economics,300,2024,81.2,99.0,78,3.37,Active,Partial,ifeanyi.akinyemi377@student.example.com
+STU20260378,Blessing,Okeke,Male,25.0,Niger,Political Science,400,2025,65.6,65.0,62,3.43,Active,Yes,blessing.okeke378@student.example.com
+STU20260379,Aisha,Sani,Female,16.0,Kwara,Computer Science,300,2026,45.4,52.0,73,4.95,Active,Partial,aisha.sani379@student.example.com
+STU20260380,Daniel,Nwosu,Male,17.0,Imo,Biology,300,2024,,39.0,93,1.98,Active,No,daniel.nwosu380@student.example.com
+STU20260381,Daniel,Adebayo,Female,27.0,Kogi,Computer Science,400,2022,88.6,44.0,76,2.11,Graduated,No,daniel.adebayo381@student.example.com
+STU20260382,Chika,Yusuf,Female,22.0,Ogun,Computer Science,300,2026,86.1,50.0,64,4.47,Active,Partial,chika.yusuf382@student.example.com
+STU20260383,Daniel,Nwosu,Male,21.0,Plateau,Chemistry,100,2023,53.4,99.0,63,3.86,Active,No,daniel.nwosu383@student.example.com
+STU20260384,Zainab,Nwosu,Male,21.0,Kaduna,Accounting,400,2026,76.4,45.0,95,1.67,Active,Partial,zainab.nwosu384@student.example.com
+STU20260385,Zainab,Nwosu,Female,23.0,Imo,Accounting,300,2025,66.7,60.0,97,3.5,Active,Partial,zainab.nwosu385@student.example.com
+STU20260386,Amaka,Bello,Male,26.0,Adamawa,Mathematics,200,2024,65.1,87.0,89,2.17,Active,No,amaka.bello386@student.example.com
+STU20260387,Fatima,Nwosu,Female,23.0,Borno,Microbiology,100,2023,56.0,40.0,64,2.81,Deferred,Yes,fatima.nwosu387@student.example.com
+STU20260388,Aisha,Okafor,Female,21.0,Enugu,Biology,300,2026,69.8,49.0,74,1.58,Active,Partial,aisha.okafor388@student.example.com
+STU20260389,Zainab,Okafor,Male,22.0,Anambra,Political Science,100,2022,54.4,40.0,67,2.49,Active,No,zainab.okafor389@student.example.com
+STU20260390,Grace,Balogun,Male,29.0,FCT,Mass Communication,100,2024,61.1,48.0,37,4.59,Active,Partial,grace.balogun390@student.example.com
+STU20260391,Esther,Eze,Female,18.0,Akwa Ibom,Biology,300,2024,98.2,60.0,99,3.46,Active,Partial,esther.eze391@student.example.com
+STU20260392,Ifeanyi,Okafor,Male,21.0,Anambra,English,300,2025,79.4,80.0,80,2.33,Deferred,Yes,ifeanyi.okafor392@student.example.com
+STU20260393,Esther,Onyeka,Female,19.0,Ogun,Physics,200,2025,94.3,54.0,78,3.8,Active,Yes,esther.onyeka393@student.example.com
+STU20260394,Blessing,Musa,Female,30.0,Ekiti,Business Administration,300,2026,74.8,77.0,92,2.22,Deferred,No,blessing.musa394@student.example.com
+STU20260395,Zainab,Udo,Female,30.0,Edo,Economics,200,2022,48.7,55.0,75,3.37,Graduated,No,zainab.udo395@student.example.com
+STU20260396,Blessing,Musa,Female,23.0,Adamawa,Chemistry,300,2026,87.9,70.0,54,1.87,Active,Yes,blessing.musa396@student.example.com
+STU20260397,Fatima,Olawale,Female,19.0,Yobe,Chemistry,400,2024,,38.0,80,4.23,Active,No,fatima.olawale397@student.example.com
+STU20260398,Mary,Danjuma,Female,18.0,Kano,Mass Communication,200,2023,57.4,55.0,59,2.93,Graduated,Yes,mary.danjuma398@student.example.com
+STU20260399,Ifeanyi,Ojo,Male,29.0,Ondo,Computer Science,400,2024,92.7,97.0,76,4.61,Active,Partial,ifeanyi.ojo399@student.example.com
+STU20260400,Daniel,Sani,Female,24.0,Imo,Physics,400,2022,69.8,39.0,48,4.39,Active,Partial,daniel.sani400@student.example.com
+STU20260401,Uche,Adeyemi,Male,19.0,Rivers,Business Administration,400,2024,66.9,72.0,91,2.57,Active,Yes,uche.adeyemi401@student.example.com
+STU20260402,Oluwaseun,Nwachukwu,Female,30.0,Edo,Chemistry,200,2025,90.6,53.0,94,3.08,Active,No,oluwaseun.nwachukwu402@student.example.com
+STU20260403,Ada,Ibrahim,Female,23.0,Borno,Accounting,100,2025,50.0,60.0,93,2.63,Active,Yes,ada.ibrahim403@student.example.com
+STU20260404,David,Obi,Female,27.0,Lagos,Chemistry,200,2023,65.8,100.0,55,2.83,Deferred,Yes,david.obi404@student.example.com
+STU20260405,Oluwaseun,Adeyemi,Male,22.0,Edo,Accounting,200,2023,85.2,74.0,74,4.86,Active,No,oluwaseun.adeyemi405@student.example.com
+STU20260406,Ada,Ojo,Female,23.0,Sokoto,Political Science,400,2025,78.4,98.0,35,3.23,Active,Partial,ada.ojo406@student.example.com
+STU20260407,Ada,Olawale,Male,30.0,Akwa Ibom,Business Administration,100,2026,47.7,70.0,61,2.02,Graduated,No,ada.olawale407@student.example.com
+STU20260408,Kelechi,Eze,Male,16.0,Edo,Political Science,300,2022,99.7,48.0,88,2.06,Active,No,kelechi.eze408@student.example.com
+STU20260409,Kelechi,Balogun,Female,30.0,Katsina,Political Science,200,2022,86.7,83.0,43,4.45,Active,No,kelechi.balogun409@student.example.com
+STU20260410,Kelechi,Nwachukwu,Female,22.0,Sokoto,,300,2025,78.7,61.0,61,1.88,Active,No,kelechi.nwachukwu410@student.example.com
+STU20260411,Emeka,Nwachukwu,Male,25.0,Taraba,Business Administration,200,2024,78.8,80.0,51,3.24,Withdrawn,Yes,emeka.nwachukwu411@student.example.com
+STU20260412,Tunde,Okafor,Male,23.0,Akwa Ibom,Economics,300,2026,89.0,50.0,61,5.0,Graduated,Yes,tunde.okafor412@student.example.com
+STU20260413,Ada,Adebayo,Male,27.0,Abia,Accounting,300,2024,88.5,71.0,67,2.58,Active,Partial,ada.adebayo413@student.example.com
+STU20260414,Fatima,Okafor,Male,29.0,Sokoto,Computer Science,200,2025,63.2,57.0,59,2.68,Active,No,fatima.okafor414@student.example.com
+STU20260415,Esther,Okeke,Male,23.0,Adamawa,Biology,300,2024,90.9,87.0,42,2.55,Active,Yes,esther.okeke415@student.example.com
+STU20260416,Emeka,Okafor,Female,21.0,Kogi,Microbiology,300,2022,76.4,83.0,56,2.86,Active,Yes,emeka.okafor416@student.example.com
+STU20260417,Mary,Olawale,Female,21.0,Niger,Computer Science,200,2022,56.9,92.0,73,2.56,Active,Yes,mary.olawale417@student.example.com
+STU20260418,Mary,Nwachukwu,Male,18.0,Kwara,Business Administration,100,2026,95.8,59.0,78,4.06,Active,Yes,mary.nwachukwu418@student.example.com
+STU20260419,Ngozi,Adeyemi,Female,23.0,Lagos,Political Science,100,2022,45.2,84.0,49,4.76,Active,Partial,ngozi.adeyemi419@student.example.com
+STU20260420,Peter,Musa,Male,16.0,Kwara,Political Science,100,2024,62.6,74.0,61,2.17,Active,No,peter.musa420@student.example.com
+STU20260421,Tunde,Okafor,Male,25.0,Kano,Business Administration,300,2026,56.4,100.0,48,2.73,Active,Yes,tunde.okafor421@student.example.com
+STU20260422,Aisha,Sani,Female,30.0,Benue,Mass Communication,100,2022,47.8,78.0,91,1.6,Active,Yes,aisha.sani422@student.example.com
+STU20260423,Oluwaseun,Sani,Female,30.0,Rivers,,200,2022,62.2,92.0,80,4.36,Graduated,Partial,oluwaseun.sani423@student.example.com
+STU20260424,Samuel,Bello,Female,23.0,Kaduna,Economics,400,2023,70.9,74.0,94,4.82,Active,Partial,samuel.bello424@student.example.com
+STU20260425,Kelechi,Okeke,Male,,Rivers,Business Administration,300,2024,48.6,97.0,38,1.9,Active,Yes,kelechi.okeke425@student.example.com
+STU20260426,David,Bello,Male,22.0,Rivers,Mass Communication,400,2023,75.6,48.0,76,1.75,Active,Partial,david.bello426@student.example.com
+STU20260427,Ifeanyi,Danjuma,Male,22.0,Oyo,Chemistry,300,2026,56.5,43.0,78,3.93,Active,Yes,ifeanyi.danjuma427@student.example.com
+STU20260428,Grace,Eze,Female,27.0,Plateau,Business Administration,300,2025,77.6,97.0,49,3.12,Active,Yes,grace.eze428@student.example.com
+STU20260429,Grace,Sani,Female,28.0,Enugu,Business Administration,100,2023,72.2,83.0,76,3.81,Active,No,grace.sani429@student.example.com
+STU20260430,Esther,Musa,Male,22.0,Kogi,Mass Communication,300,2022,56.3,92.0,60,4.57,Active,Partial,esther.musa430@student.example.com
+STU20260431,David,Obi,Female,29.0,Abia,Microbiology,300,2022,48.4,51.0,72,4.65,Deferred,Yes,david.obi431@student.example.com
+STU20260432,Bola,Yusuf,Male,27.0,Enugu,English,200,2025,84.1,85.0,75,2.92,Active,Partial,bola.yusuf432@student.example.com
+STU20260433,Femi,Balogun,Female,29.0,Cross River,Computer Science,100,2022,60.9,88.0,54,4.55,Active,No,femi.balogun433@student.example.com
+STU20260434,Grace,Yusuf,Male,18.0,Oyo,Chemistry,200,2025,80.3,45.0,52,2.96,Active,Partial,grace.yusuf434@student.example.com
+STU20260435,Samuel,Obi,Male,21.0,Imo,Microbiology,300,2025,68.4,63.0,58,1.53,Deferred,Partial,samuel.obi435@student.example.com
+STU20260436,Chika,Adeyemi,Female,16.0,Delta,Microbiology,300,2025,51.2,96.0,82,3.19,Active,Partial,chika.adeyemi436@student.example.com
+STU20260437,Fatima,Eze,Male,19.0,Anambra,Economics,100,2025,82.6,95.0,44,3.39,Active,No,fatima.eze437@student.example.com
+STU20260438,Daniel,Okeke,Male,22.0,Kaduna,Computer Science,400,2026,60.9,80.0,72,1.62,Active,Yes,daniel.okeke438@student.example.com
+STU20260439,Grace,Musa,Female,28.0,Kano,Mathematics,200,2026,71.7,38.0,71,1.94,Active,No,grace.musa439@student.example.com
+STU20260440,Ada,Bello,Female,25.0,Kaduna,Microbiology,200,2025,81.3,57.0,54,2.79,Active,Partial,ada.bello440@student.example.com
+STU20260441,Chinedu,Okeke,Male,17.0,Ogun,Biology,400,2023,91.1,53.0,54,4.13,Active,Partial,chinedu.okeke441@student.example.com
+STU20260442,Chika,Adeyemi,Male,26.0,Kogi,Political Science,200,2025,,68.0,49,3.12,Active,No,chika.adeyemi442@student.example.com
+STU20260443,Mary,Onyeka,Male,18.0,Kwara,Physics,100,2022,60.9,90.0,36,4.29,Deferred,Partial,mary.onyeka443@student.example.com
+STU20260444,Chika,Yusuf,Male,25.0,Ondo,Political Science,200,2026,59.9,69.0,77,4.31,Graduated,Partial,chika.yusuf444@student.example.com
+STU20260445,Kelechi,Ibrahim,Female,21.0,Zamfara,Accounting,400,2024,90.7,36.0,36,1.54,Active,No,kelechi.ibrahim445@student.example.com
+STU20260446,Emeka,Adebayo,Female,16.0,Borno,Microbiology,100,2022,48.1,38.0,46,3.58,Deferred,Yes,emeka.adebayo446@student.example.com
+STU20260447,Femi,Udo,Male,28.0,Bauchi,English,400,2024,83.3,58.0,49,2.39,Graduated,Partial,femi.udo447@student.example.com
+STU20260448,Grace,Okeke,Male,20.0,Lagos,Computer Science,300,2024,60.3,55.0,44,1.72,Active,Yes,grace.okeke448@student.example.com
+STU20260449,Mary,Adebayo,Male,25.0,Enugu,Chemistry,100,2025,80.5,85.0,57,1.88,Graduated,Yes,mary.adebayo449@student.example.com
+STU20260450,Chinedu,Eze,Female,,Akwa Ibom,English,400,2024,46.0,67.0,92,3.24,Active,No,chinedu.eze450@student.example.com
+STU20260451,Femi,Udo,Female,16.0,FCT,Computer Science,400,2025,71.3,100.0,97,2.91,Active,Partial,femi.udo451@student.example.com
+STU20260452,Chika,Okeke,Female,26.0,Niger,Physics,300,2022,48.0,73.0,86,4.99,Graduated,No,chika.okeke452@student.example.com
+STU20260453,Uche,Adebayo,Male,18.0,Benue,English,300,2025,81.3,40.0,84,2.55,Active,Partial,uche.adebayo453@student.example.com
+STU20260454,Samuel,Adebayo,Female,18.0,Taraba,Mass Communication,100,2026,46.4,39.0,59,4.99,Active,No,samuel.adebayo454@student.example.com
+STU20260455,Esther,Ojo,Female,16.0,Ondo,Accounting,200,2026,48.1,39.0,78,4.26,Active,Partial,esther.ojo455@student.example.com
+STU20260456,Esther,Nwosu,Female,27.0,Sokoto,Chemistry,100,2023,47.0,64.0,44,2.0,Graduated,Yes,esther.nwosu456@student.example.com
+STU20260457,Ada,Ibrahim,Female,26.0,Bauchi,Accounting,100,2025,90.1,41.0,74,1.84,Active,Partial,ada.ibrahim457@student.example.com
+STU20260458,Bola,Eze,Male,28.0,Kwara,Accounting,200,2024,63.6,60.0,89,4.43,Graduated,Yes,bola.eze458@student.example.com
+STU20260459,Chinedu,Udo,Male,18.0,Ebonyi,Microbiology,300,2026,51.6,77.0,43,1.99,Active,Yes,chinedu.udo459@student.example.com
+STU20260460,Daniel,Adeyemi,Male,18.0,Bayelsa,Computer Science,100,2023,87.8,47.0,83,1.55,Deferred,Partial,daniel.adeyemi460@student.example.com
+STU20260461,Uche,Udo,Male,30.0,Cross River,Biology,200,2024,83.1,71.0,88,4.27,Active,No,uche.udo461@student.example.com
+STU20260462,Bola,Ibrahim,Female,25.0,Kogi,Economics,400,2022,84.4,39.0,58,3.64,Active,Yes,bola.ibrahim462@student.example.com
+STU20260463,Tunde,Nwachukwu,Female,17.0,Kano,Computer Science,200,2022,57.1,81.0,99,4.2,Graduated,Partial,tunde.nwachukwu463@student.example.com
+STU20260464,Mary,Danjuma,Female,18.0,Oyo,Mathematics,300,2026,48.0,55.0,40,2.77,Graduated,No,mary.danjuma464@student.example.com
+STU20260465,Chinedu,Bello,Female,27.0,Bauchi,Biology,400,2026,53.7,41.0,57,1.6,Active,No,chinedu.bello465@student.example.com
+STU20260466,Ngozi,Okeke,Male,19.0,Ekiti,Mass Communication,200,2022,57.5,49.0,76,2.33,Active,No,ngozi.okeke466@student.example.com
+STU20260467,Chinedu,Yusuf,Male,18.0,Ekiti,English,300,2024,54.8,62.0,93,2.81,Active,Yes,chinedu.yusuf467@student.example.com
+STU20260468,Chinedu,Udo,Male,16.0,Ebonyi,Economics,200,2024,51.1,70.0,52,3.13,Active,Partial,chinedu.udo468@student.example.com
+STU20260469,Fatima,Ibrahim,Female,25.0,Sokoto,Political Science,300,2022,67.6,64.0,46,3.33,Graduated,Partial,fatima.ibrahim469@student.example.com
+STU20260470,Bola,Olawale,Female,21.0,Abia,Mass Communication,100,2022,94.1,90.0,63,3.57,Withdrawn,Partial,bola.olawale470@student.example.com
+STU20260471,David,Adeyemi,Female,22.0,Plateau,Political Science,200,2022,89.5,85.0,96,3.94,Active,Yes,david.adeyemi471@student.example.com
+STU20260472,Oluwaseun,Yusuf,Female,19.0,Adamawa,Political Science,300,2023,61.3,51.0,80,3.77,Graduated,Partial,oluwaseun.yusuf472@student.example.com
+STU20260473,Peter,Udo,Male,16.0,Edo,Economics,400,2022,87.5,93.0,94,4.56,Deferred,Yes,peter.udo473@student.example.com
+STU20260474,Femi,Okeke,Female,24.0,Bayelsa,Chemistry,300,2022,68.4,39.0,72,2.44,Active,Partial,femi.okeke474@student.example.com
+STU20260475,Chika,Adeyemi,Male,17.0,Edo,English,100,2026,70.6,84.0,81,1.64,Graduated,Yes,chika.adeyemi475@student.example.com
+STU20260476,Zainab,Okeke,Female,19.0,FCT,Economics,300,2024,85.6,49.0,96,4.13,Active,No,zainab.okeke476@student.example.com
+STU20260477,Emeka,Adeyemi,Female,17.0,Sokoto,Microbiology,300,2025,69.9,82.0,79,3.26,Active,Partial,emeka.adeyemi477@student.example.com
+STU20260478,Oluwaseun,Eze,Male,19.0,Bauchi,Accounting,200,2024,49.4,93.0,46,4.64,Active,Yes,oluwaseun.eze478@student.example.com
+STU20260479,Mary,Nwosu,Female,29.0,Sokoto,Economics,400,2025,61.1,61.0,37,4.89,Graduated,Yes,mary.nwosu479@student.example.com
+STU20260480,Aisha,Adebayo,Male,17.0,Osun,Chemistry,300,2024,90.9,37.0,64,3.32,Active,Partial,aisha.adebayo480@student.example.com
+STU20260481,Oluwaseun,Nwachukwu,Male,29.0,Ebonyi,Mathematics,200,2025,61.7,91.0,93,1.96,Active,No,oluwaseun.nwachukwu481@student.example.com
+STU20260482,Chinedu,Nwosu,Female,21.0,Katsina,Business Administration,200,2023,97.6,71.0,93,3.67,Active,Yes,chinedu.nwosu482@student.example.com
+STU20260483,Chinedu,Okeke,Female,25.0,Kwara,Economics,200,2024,59.3,51.0,91,2.15,Active,Yes,chinedu.okeke483@student.example.com
+STU20260484,Esther,Musa,Male,17.0,Kwara,Business Administration,100,2026,96.2,38.0,86,4.19,Withdrawn,No,esther.musa484@student.example.com
+STU20260485,Uche,Musa,Male,23.0,Lagos,Microbiology,100,2025,89.0,72.0,53,4.05,Deferred,Yes,uche.musa485@student.example.com
+STU20260486,Grace,Akinyemi,Male,17.0,Nasarawa,Accounting,300,2022,67.1,74.0,38,4.44,Active,Yes,grace.akinyemi486@student.example.com
+STU20260487,Daniel,Nwachukwu,Male,19.0,Bayelsa,Physics,400,2023,46.2,70.0,60,3.38,Active,Partial,daniel.nwachukwu487@student.example.com
+STU20260488,Fatima,Nwachukwu,Male,16.0,Ogun,Economics,100,2024,53.1,81.0,85,4.49,Active,,fatima.nwachukwu488@student.example.com
+STU20260489,Samuel,Akinyemi,Male,17.0,Katsina,Business Administration,400,2025,85.8,62.0,91,2.95,Active,Partial,samuel.akinyemi489@student.example.com
+STU20260490,Fatima,Eze,Male,18.0,Bauchi,Chemistry,400,2022,71.1,61.0,73,4.54,Active,Partial,fatima.eze490@student.example.com
+STU20260491,Emeka,Yusuf,Male,18.0,Taraba,Computer Science,300,2026,56.0,94.0,52,4.41,Active,Partial,emeka.yusuf491@student.example.com
+STU20260492,Peter,Ojo,Male,19.0,Borno,English,300,2025,53.5,38.0,35,2.55,Active,Partial,peter.ojo492@student.example.com
+STU20260493,Uche,Olawale,Male,16.0,Sokoto,Chemistry,400,2024,72.1,50.0,70,4.9,Active,No,uche.olawale493@student.example.com
+STU20260494,Oluwaseun,Bello,Female,21.0,Delta,Economics,400,2023,91.5,100.0,37,2.07,Active,Yes,oluwaseun.bello494@student.example.com
+STU20260495,Emeka,Balogun,Female,,Yobe,Biology,200,2022,60.9,80.0,41,3.35,Active,Yes,emeka.balogun495@student.example.com
+STU20260496,Esther,Okeke,Male,29.0,Benue,Physics,300,2023,59.9,75.0,73,3.94,Active,Partial,esther.okeke496@student.example.com
+STU20260497,Aisha,Balogun,Female,28.0,Enugu,Business Administration,200,2023,63.7,97.0,87,4.69,Graduated,Partial,aisha.balogun497@student.example.com
+STU20260498,Fatima,Nwachukwu,Female,29.0,Adamawa,Political Science,300,2024,70.3,49.0,88,1.77,Active,Yes,fatima.nwachukwu498@student.example.com
+STU20260499,Samuel,Sani,Female,24.0,FCT,Business Administration,200,2023,84.0,78.0,57,1.6,Active,Yes,samuel.sani499@student.example.com
+STU20260500,Zainab,Eze,Male,22.0,Akwa Ibom,Biology,100,2022,46.0,49.0,44,3.19,Graduated,Partial,zainab.eze500@student.example.com
+STU20260501,Daniel,Adeyemi,Female,23.0,Benue,Accounting,200,2026,47.4,50.0,67,2.56,Deferred,Yes,daniel.adeyemi501@student.example.com
+STU20260502,Grace,Balogun,Male,16.0,Nasarawa,Business Administration,200,2026,91.5,46.0,53,4.8,Active,Yes,grace.balogun502@student.example.com
+STU20260503,Daniel,Okafor,Female,24.0,Benue,Biology,400,2024,98.0,62.0,59,2.1,Active,Yes,daniel.okafor503@student.example.com
+STU20260504,Samuel,Bello,Male,18.0,Borno,Economics,100,2025,68.3,80.0,83,3.3,Active,Yes,samuel.bello504@student.example.com
+STU20260505,Mary,Balogun,Male,27.0,Katsina,Political Science,300,2025,49.5,71.0,40,3.23,Active,No,mary.balogun505@student.example.com
+STU20260506,Aisha,Yusuf,Female,19.0,Taraba,English,100,2025,96.6,43.0,95,2.79,Active,Partial,aisha.yusuf506@student.example.com
+STU20260507,Grace,Eze,Female,17.0,Ebonyi,Accounting,300,2023,67.0,53.0,85,3.57,Active,Partial,grace.eze507@student.example.com
+STU20260508,Femi,Bello,Male,19.0,Ondo,Economics,400,2026,60.3,89.0,98,4.0,Withdrawn,No,femi.bello508@student.example.com
+STU20260509,David,Onyeka,Female,18.0,Cross River,Computer Science,100,2022,51.7,93.0,48,3.21,Graduated,No,david.onyeka509@student.example.com
+STU20260510,Grace,Okafor,Female,18.0,Bauchi,English,400,2025,53.4,83.0,76,3.68,Active,Partial,grace.okafor510@student.example.com
+STU20260511,Mary,Danjuma,Female,24.0,Akwa Ibom,Mass Communication,100,2025,89.5,68.0,78,3.39,Active,No,mary.danjuma511@student.example.com
+STU20260512,Samuel,Ojo,Male,16.0,Ebonyi,Political Science,400,2023,75.6,39.0,57,4.51,Active,No,samuel.ojo512@student.example.com
+STU20260513,Mary,Bello,Female,25.0,Ondo,Mathematics,400,2026,71.2,97.0,95,4.49,Withdrawn,Partial,mary.bello513@student.example.com
+STU20260514,Grace,Balogun,Female,28.0,Niger,Economics,100,2024,48.4,71.0,76,3.57,Active,No,grace.balogun514@student.example.com
+STU20260515,Chika,Balogun,Male,22.0,Bayelsa,Microbiology,100,2024,81.4,79.0,42,2.37,Active,Yes,chika.balogun515@student.example.com
+STU20260516,Ada,Akinyemi,Male,21.0,Kano,Computer Science,400,2026,81.2,39.0,93,2.98,Active,No,ada.akinyemi516@student.example.com
+STU20260517,Femi,Udo,Female,22.0,Lagos,Political Science,300,2023,89.5,76.0,47,1.85,Active,No,femi.udo517@student.example.com
+STU20260518,Blessing,Adebayo,Male,23.0,FCT,Chemistry,100,2026,60.8,44.0,62,1.67,Active,No,blessing.adebayo518@student.example.com
+STU20260519,Emeka,Eze,Male,25.0,Yobe,Mathematics,400,2026,56.5,95.0,89,4.28,Active,No,emeka.eze519@student.example.com
+STU20260520,Femi,Onyeka,Female,25.0,Zamfara,Business Administration,400,2023,81.9,100.0,93,3.42,Active,,femi.onyeka520@student.example.com
+STU20260521,Samuel,Onyeka,Female,30.0,Imo,Business Administration,300,2025,73.7,90.0,42,2.77,Active,Yes,samuel.onyeka521@student.example.com
+STU20260522,Uche,Adebayo,Male,29.0,Imo,Mass Communication,200,2022,90.3,87.0,69,3.76,Active,Yes,uche.adebayo522@student.example.com
+STU20260523,Bola,Musa,Female,23.0,Ebonyi,Mathematics,200,2022,68.2,97.0,90,4.67,Active,No,bola.musa523@student.example.com
+STU20260524,Grace,Akinyemi,Female,18.0,Kwara,Chemistry,300,2022,88.0,40.0,97,1.69,Deferred,No,grace.akinyemi524@student.example.com
+STU20260525,Chika,Eze,Female,22.0,Zamfara,English,300,2025,51.2,52.0,65,4.07,Deferred,Yes,chika.eze525@student.example.com
+STU20260526,Fatima,Bello,Female,28.0,Oyo,Biology,200,2022,90.8,75.0,77,4.08,Active,No,fatima.bello526@student.example.com
+STU20260527,Samuel,Yusuf,Female,20.0,Kwara,Physics,400,2025,74.3,42.0,97,3.95,Active,No,samuel.yusuf527@student.example.com
+STU20260528,Zainab,Balogun,Female,23.0,Anambra,Microbiology,200,2024,46.2,82.0,74,4.88,Active,No,zainab.balogun528@student.example.com
+STU20260529,Uche,Balogun,Male,30.0,Kaduna,Mathematics,100,2023,92.2,50.0,65,2.86,Active,Yes,uche.balogun529@student.example.com
+STU20260530,Samuel,Okeke,Male,30.0,Sokoto,Microbiology,400,2024,60.1,87.0,39,1.78,Graduated,Yes,samuel.okeke530@student.example.com
+STU20260531,Ifeanyi,Onyeka,Male,24.0,Rivers,Microbiology,100,2022,68.1,43.0,80,4.05,Active,Yes,ifeanyi.onyeka531@student.example.com
+STU20260532,Uche,Ojo,Male,28.0,Bayelsa,,200,2023,67.0,52.0,35,3.7,Active,Partial,uche.ojo532@student.example.com
+STU20260533,Zainab,Sani,Female,26.0,Kaduna,Business Administration,300,2024,69.8,87.0,75,4.56,Active,No,zainab.sani533@student.example.com
+STU20260534,Chika,Ibrahim,Female,22.0,Bayelsa,Political Science,200,2024,46.1,83.0,63,1.58,Graduated,Yes,chika.ibrahim534@student.example.com
+STU20260535,Chinedu,Obi,Female,25.0,Borno,Computer Science,400,2025,53.2,89.0,68,4.85,Graduated,No,chinedu.obi535@student.example.com
+STU20260536,Tunde,Olawale,Male,27.0,Katsina,Microbiology,400,2025,97.0,61.0,59,4.35,Active,Yes,tunde.olawale536@student.example.com
+STU20260537,Fatima,Adebayo,Female,29.0,Adamawa,Mathematics,300,2023,68.0,71.0,59,2.93,Active,Yes,fatima.adebayo537@student.example.com
+STU20260538,Chika,Udo,Male,26.0,Ondo,English,200,2025,45.6,93.0,45,1.97,Graduated,Partial,chika.udo538@student.example.com
+STU20260539,Fatima,Onyeka,Male,17.0,Nasarawa,Chemistry,100,2022,47.9,47.0,42,4.76,Active,Partial,fatima.onyeka539@student.example.com
+STU20260540,Femi,Musa,Female,22.0,Kaduna,Business Administration,400,2024,98.2,82.0,51,3.46,Deferred,Yes,femi.musa540@student.example.com
+STU20260541,Amaka,Okeke,Female,27.0,Taraba,Mathematics,300,2025,59.3,90.0,53,2.6,Active,No,amaka.okeke541@student.example.com
+STU20260542,Fatima,Onyeka,Male,24.0,Delta,Physics,400,2022,94.1,75.0,90,2.6,Active,Yes,fatima.onyeka542@student.example.com
+STU20260543,Bola,Ibrahim,Female,16.0,Taraba,Computer Science,400,2024,54.0,95.0,68,3.13,Withdrawn,Partial,bola.ibrahim543@student.example.com
+STU20260544,Mary,Ojo,Male,23.0,Edo,Business Administration,300,2026,51.8,49.0,53,1.83,Deferred,Partial,mary.ojo544@student.example.com
+STU20260545,Ngozi,Udo,Male,16.0,Benue,Economics,100,2024,95.6,58.0,88,2.36,Active,Partial,ngozi.udo545@student.example.com
+STU20260546,Tunde,Obi,Male,21.0,Rivers,English,300,2026,53.5,48.0,76,1.78,Active,No,tunde.obi546@student.example.com
+STU20260547,Chinedu,Sani,Male,23.0,Kwara,Computer Science,100,2026,56.6,76.0,51,1.67,Withdrawn,No,chinedu.sani547@student.example.com
+STU20260548,Amaka,Obi,Female,20.0,Adamawa,Biology,200,2025,98.1,57.0,65,4.53,Graduated,No,amaka.obi548@student.example.com
+STU20260549,Uche,Nwosu,Male,17.0,Cross River,Economics,100,2024,89.1,73.0,97,4.08,Active,,uche.nwosu549@student.example.com
+STU20260550,Samuel,Obi,Male,23.0,Edo,Mass Communication,400,2022,50.0,69.0,89,2.98,Active,No,samuel.obi550@student.example.com
+STU20260551,Samuel,Olawale,Female,26.0,Katsina,Political Science,400,2022,74.0,54.0,98,3.77,Deferred,No,samuel.olawale551@student.example.com
+STU20260552,Aisha,Nwosu,Female,18.0,Bauchi,Computer Science,100,2026,73.8,73.0,66,,Active,Yes,aisha.nwosu552@student.example.com
+STU20260553,Samuel,Udo,Female,29.0,Borno,Microbiology,400,2023,59.0,67.0,80,1.79,Graduated,No,samuel.udo553@student.example.com
+STU20260554,Chinedu,Eze,Male,22.0,Kaduna,Economics,200,2023,77.3,,75,3.09,Active,Partial,chinedu.eze554@student.example.com
+STU20260555,Fatima,Onyeka,Female,29.0,Abia,Business Administration,400,2025,74.4,48.0,90,1.52,Active,Partial,fatima.onyeka555@student.example.com
+STU20260556,Peter,Sani,Male,27.0,Ondo,Mathematics,100,2023,79.0,97.0,73,4.91,Active,Yes,peter.sani556@student.example.com
+STU20260557,Tunde,Okafor,Female,27.0,Oyo,English,200,2022,56.5,59.0,38,3.77,Active,No,tunde.okafor557@student.example.com
+STU20260558,Zainab,Danjuma,Male,22.0,Taraba,Political Science,100,2025,54.1,37.0,49,2.03,Active,Yes,zainab.danjuma558@student.example.com
+STU20260559,Aisha,Udo,Male,29.0,Osun,Political Science,300,2022,63.4,85.0,41,1.86,Active,No,aisha.udo559@student.example.com
+STU20260560,David,Udo,Male,27.0,Kwara,Physics,100,2024,84.3,97.0,64,3.35,Deferred,No,david.udo560@student.example.com
+STU20260561,Mary,Bello,Male,23.0,Ekiti,Political Science,300,2025,83.4,79.0,92,1.57,Active,Yes,mary.bello561@student.example.com
+STU20260562,Daniel,Okeke,Male,30.0,Osun,English,300,2025,93.6,94.0,51,4.03,Graduated,Yes,daniel.okeke562@student.example.com
+STU20260563,Fatima,Adebayo,Male,20.0,Benue,Mass Communication,400,2024,52.1,46.0,96,2.2,Active,Partial,fatima.adebayo563@student.example.com
+STU20260564,Chinedu,Okafor,Female,21.0,Bauchi,Economics,400,2022,82.2,68.0,80,2.11,Active,Yes,chinedu.okafor564@student.example.com
+STU20260565,Esther,Olawale,Male,,Delta,Microbiology,100,2022,88.2,68.0,78,4.19,Deferred,No,esther.olawale565@student.example.com
+STU20260566,Samuel,Bello,Female,17.0,Enugu,Economics,200,2024,72.9,48.0,40,2.08,Graduated,Partial,samuel.bello566@student.example.com
+STU20260567,Mary,Bello,Female,18.0,Plateau,Mass Communication,100,2023,90.1,81.0,77,1.93,Graduated,No,mary.bello567@student.example.com
+STU20260568,Kelechi,Musa,Male,24.0,Niger,English,200,2023,59.6,56.0,45,4.0,Graduated,Partial,kelechi.musa568@student.example.com
+STU20260569,Blessing,Olawale,Male,18.0,Adamawa,Political Science,200,2022,95.5,89.0,87,4.64,Graduated,Partial,blessing.olawale569@student.example.com
+STU20260570,Amaka,Eze,Female,,Ondo,Computer Science,200,2026,99.0,75.0,86,2.08,Active,Partial,amaka.eze570@student.example.com
+STU20260571,Oluwaseun,Nwachukwu,Male,20.0,Kwara,Economics,100,2024,93.7,88.0,86,3.95,Deferred,Partial,oluwaseun.nwachukwu571@student.example.com
+STU20260572,Zainab,Obi,Male,23.0,Ekiti,Mathematics,100,2022,83.4,61.0,91,4.61,Active,No,zainab.obi572@student.example.com
+STU20260573,Peter,Nwosu,Male,24.0,Ebonyi,Computer Science,100,2026,50.1,71.0,62,3.43,Active,Yes,peter.nwosu573@student.example.com
+STU20260574,Aisha,Yusuf,Male,24.0,Borno,Computer Science,100,2025,91.3,49.0,42,2.41,Active,Partial,aisha.yusuf574@student.example.com
+STU20260575,Ada,Ojo,Female,21.0,Ogun,Physics,200,2022,64.3,65.0,64,2.5,Active,Partial,ada.ojo575@student.example.com
+STU20260576,Ngozi,Balogun,Female,23.0,Bayelsa,Computer Science,400,2023,84.1,47.0,53,4.4,Active,No,ngozi.balogun576@student.example.com
+STU20260577,Amaka,Balogun,Male,26.0,Plateau,Microbiology,400,2025,93.0,86.0,85,3.55,Graduated,Yes,amaka.balogun577@student.example.com
+STU20260578,David,Nwosu,Female,23.0,Enugu,Political Science,400,2022,98.2,93.0,51,3.3,Graduated,Partial,david.nwosu578@student.example.com
+STU20260579,Chika,Bello,Female,25.0,Zamfara,Business Administration,100,2024,51.6,87.0,49,3.5,Active,No,chika.bello579@student.example.com
+STU20260580,Aisha,Musa,Female,23.0,Kogi,Mathematics,200,2023,52.8,38.0,53,3.56,Graduated,No,aisha.musa580@student.example.com
+STU20260581,Ada,Bello,Male,24.0,Plateau,Economics,400,2025,92.9,79.0,43,2.96,Graduated,Partial,ada.bello581@student.example.com
+STU20260582,Zainab,Nwosu,Male,,Bayelsa,Chemistry,400,2025,81.7,93.0,92,2.02,Active,No,zainab.nwosu582@student.example.com
+STU20260583,Kelechi,Akinyemi,Female,16.0,Kogi,Physics,100,2026,80.5,91.0,70,4.53,Active,Partial,kelechi.akinyemi583@student.example.com
+STU20260584,Esther,Udo,Female,28.0,Borno,English,200,2022,86.3,41.0,59,3.26,Active,Yes,esther.udo584@student.example.com
+STU20260585,Bola,Udo,Female,23.0,Lagos,Mass Communication,200,2025,67.1,45.0,76,1.66,Active,Partial,bola.udo585@student.example.com
+STU20260586,Kelechi,Obi,Male,20.0,Delta,Business Administration,300,2022,98.9,46.0,49,3.4,Active,No,kelechi.obi586@student.example.com
+STU20260587,Grace,Ibrahim,Male,16.0,Benue,Economics,200,2025,46.5,76.0,58,1.7,Deferred,No,grace.ibrahim587@student.example.com
+STU20260588,Femi,Bello,Male,16.0,Yobe,Physics,400,2022,86.4,60.0,65,3.55,Active,No,femi.bello588@student.example.com
+STU20260589,Samuel,Akinyemi,Female,22.0,Kano,Physics,100,2023,46.6,43.0,96,3.72,Graduated,Partial,samuel.akinyemi589@student.example.com
+STU20260590,Zainab,Musa,Female,25.0,Delta,Economics,200,2023,,87.0,92,3.73,Active,No,zainab.musa590@student.example.com
+STU20260591,Esther,Ojo,Female,16.0,Abia,Computer Science,400,2024,97.9,35.0,94,3.67,Active,Partial,esther.ojo591@student.example.com
+STU20260592,Femi,Balogun,Female,29.0,Kogi,Accounting,400,2022,60.5,62.0,100,2.06,Graduated,Partial,femi.balogun592@student.example.com
+STU20260593,Esther,Onyeka,Male,30.0,Lagos,English,300,2025,78.6,90.0,61,4.85,Active,,esther.onyeka593@student.example.com
+STU20260594,Kelechi,Okeke,Female,19.0,Sokoto,Computer Science,100,2023,45.9,93.0,77,3.92,Active,Partial,kelechi.okeke594@student.example.com
+STU20260595,Oluwaseun,Danjuma,Female,28.0,Adamawa,,400,2022,88.3,85.0,45,3.77,Active,No,oluwaseun.danjuma595@student.example.com
+STU20260596,Fatima,Balogun,Female,22.0,Plateau,Computer Science,200,2022,51.9,57.0,36,2.8,Graduated,Partial,fatima.balogun596@student.example.com
+STU20260597,Oluwaseun,Balogun,Male,19.0,Niger,Computer Science,300,2025,89.5,46.0,73,2.27,Deferred,Partial,oluwaseun.balogun597@student.example.com
+STU20260598,Fatima,Adebayo,Male,16.0,Ebonyi,Physics,200,2026,51.1,60.0,85,2.47,Active,Partial,fatima.adebayo598@student.example.com
+STU20260599,Daniel,Ibrahim,Female,17.0,Zamfara,Microbiology,300,2023,52.0,51.0,43,4.77,Graduated,Yes,daniel.ibrahim599@student.example.com
+STU20260600,Oluwaseun,Akinyemi,Female,25.0,Kwara,Mass Communication,400,2024,45.1,67.0,93,2.99,Active,Partial,oluwaseun.akinyemi600@student.example.com
+STU20260601,Samuel,Danjuma,Male,21.0,Kwara,Computer Science,400,2023,47.6,40.0,63,4.71,Active,Partial,samuel.danjuma601@student.example.com
+STU20260602,Ada,Olawale,Male,27.0,Kogi,Accounting,100,2022,95.4,89.0,44,2.19,Active,Yes,ada.olawale602@student.example.com
+STU20260603,Daniel,Okeke,Male,29.0,Anambra,Economics,200,2022,50.9,67.0,66,2.33,Graduated,Partial,daniel.okeke603@student.example.com
+STU20260604,Samuel,Bello,Female,26.0,Ogun,Economics,100,2023,49.7,92.0,50,1.71,Active,No,samuel.bello604@student.example.com
+STU20260605,Chinedu,Musa,Female,25.0,Katsina,Mass Communication,400,2022,50.6,90.0,43,1.7,Active,No,chinedu.musa605@student.example.com
+STU20260606,Bola,Sani,Female,28.0,Lagos,English,100,2025,66.1,36.0,93,4.28,Active,Partial,bola.sani606@student.example.com
+STU20260607,Ngozi,Bello,Female,17.0,Yobe,Mathematics,300,2025,77.6,36.0,43,4.44,Active,Partial,ngozi.bello607@student.example.com
+STU20260608,Samuel,Ibrahim,Male,19.0,Yobe,English,300,2024,48.3,52.0,40,2.59,Active,Partial,samuel.ibrahim608@student.example.com
+STU20260609,Zainab,Nwosu,Female,23.0,Anambra,Biology,100,2025,61.0,74.0,78,4.9,Active,Yes,zainab.nwosu609@student.example.com
+STU20260610,Uche,Adebayo,Male,28.0,Lagos,Chemistry,300,2026,55.4,43.0,78,3.17,Active,No,uche.adebayo610@student.example.com
+STU20260611,Ifeanyi,Bello,Female,23.0,FCT,Political Science,200,2023,57.1,40.0,98,1.51,Active,No,ifeanyi.bello611@student.example.com
+STU20260612,Peter,Obi,Female,19.0,Bauchi,Economics,100,2026,90.4,86.0,58,1.52,Active,No,peter.obi612@student.example.com
+STU20260613,Samuel,Adebayo,Male,26.0,Edo,Biology,300,2023,98.6,81.0,40,2.2,Active,Partial,samuel.adebayo613@student.example.com
+STU20260614,Bola,Ibrahim,Female,19.0,Cross River,Mass Communication,100,2024,91.4,37.0,57,4.69,Deferred,No,bola.ibrahim614@student.example.com
+STU20260615,Samuel,Olawale,Male,21.0,Bauchi,Accounting,200,2023,96.8,82.0,56,4.92,Graduated,Yes,samuel.olawale615@student.example.com
+STU20260616,Esther,Obi,Female,27.0,Akwa Ibom,Chemistry,200,2026,78.0,82.0,75,4.92,Active,Yes,esther.obi616@student.example.com
+STU20260617,Kelechi,Olawale,Male,16.0,Enugu,Microbiology,100,2025,91.8,70.0,51,4.89,Graduated,Partial,kelechi.olawale617@student.example.com
+STU20260618,Amaka,Ibrahim,Female,24.0,Kwara,Microbiology,300,2026,65.6,84.0,100,3.32,Active,Partial,amaka.ibrahim618@student.example.com
+STU20260619,Mary,Danjuma,Male,20.0,Imo,Mass Communication,200,2024,56.4,86.0,39,4.63,Active,No,mary.danjuma619@student.example.com
+STU20260620,Daniel,Ibrahim,Female,30.0,Katsina,Political Science,300,2023,75.3,82.0,67,1.97,Active,No,daniel.ibrahim620@student.example.com
+STU20260621,David,Sani,Male,21.0,Kwara,Mathematics,400,2022,70.7,89.0,92,2.93,Active,Yes,david.sani621@student.example.com
+STU20260622,Emeka,Eze,Female,21.0,Kano,Biology,100,2022,91.3,45.0,72,3.29,Active,Yes,emeka.eze622@student.example.com
+STU20260623,Esther,Adebayo,Male,21.0,Ekiti,Microbiology,200,2026,58.8,60.0,77,4.11,Deferred,Yes,esther.adebayo623@student.example.com
+STU20260624,Aisha,Musa,Female,29.0,Sokoto,English,200,2025,97.0,79.0,86,4.38,Active,Partial,aisha.musa624@student.example.com
+STU20260625,Peter,Adebayo,Female,23.0,Kwara,Biology,400,2025,84.7,64.0,94,3.11,Active,No,peter.adebayo625@student.example.com
+STU20260626,Esther,Okafor,Male,21.0,Nasarawa,Economics,200,2025,61.8,52.0,51,4.08,Active,No,esther.okafor626@student.example.com
+STU20260627,Oluwaseun,Akinyemi,Female,,Delta,Economics,400,2025,76.2,76.0,37,1.61,Active,No,oluwaseun.akinyemi627@student.example.com
+STU20260628,Amaka,Akinyemi,Male,22.0,Kogi,Accounting,200,2022,51.0,59.0,95,3.49,Active,Yes,amaka.akinyemi628@student.example.com
+STU20260629,Chinedu,Sani,Male,23.0,Katsina,Biology,200,2024,55.9,38.0,58,4.69,Active,Yes,chinedu.sani629@student.example.com
+STU20260630,Samuel,Adeyemi,Male,21.0,Ebonyi,Accounting,200,2026,63.0,36.0,56,4.68,Active,Partial,samuel.adeyemi630@student.example.com
+STU20260631,Amaka,Obi,Male,30.0,Ebonyi,Chemistry,300,2026,92.9,61.0,51,2.58,Active,Partial,amaka.obi631@student.example.com
+STU20260632,Grace,Ojo,Male,20.0,Imo,Physics,300,2026,99.5,60.0,35,3.06,Deferred,No,grace.ojo632@student.example.com
+STU20260633,Samuel,Udo,Male,16.0,Kogi,Mass Communication,200,2025,80.5,46.0,71,4.72,Active,Partial,samuel.udo633@student.example.com
+STU20260634,Peter,Yusuf,Female,23.0,Imo,Business Administration,300,2026,83.4,84.0,58,1.83,Active,Yes,peter.yusuf634@student.example.com
+STU20260635,Oluwaseun,Adebayo,Male,30.0,Bauchi,Accounting,300,2025,99.6,98.0,87,3.43,Active,No,oluwaseun.adebayo635@student.example.com
+STU20260636,Ngozi,Nwachukwu,Male,16.0,Ogun,Economics,400,2023,49.0,94.0,38,3.93,Active,Yes,ngozi.nwachukwu636@student.example.com
+STU20260637,Emeka,Bello,Male,27.0,Bauchi,Accounting,200,2025,81.9,52.0,76,3.12,Active,No,emeka.bello637@student.example.com
+STU20260638,Ifeanyi,Ibrahim,Male,29.0,Ebonyi,Accounting,100,2024,54.7,37.0,47,1.93,Active,No,ifeanyi.ibrahim638@student.example.com
+STU20260639,Ifeanyi,Adebayo,Female,27.0,Ogun,Microbiology,300,2025,69.3,39.0,62,1.67,Active,Yes,ifeanyi.adebayo639@student.example.com
+STU20260640,Chinedu,Obi,Female,28.0,Adamawa,Mass Communication,100,2022,65.6,60.0,66,2.33,Active,Yes,chinedu.obi640@student.example.com
+STU20260641,Grace,Eze,Female,19.0,Kwara,Economics,200,2026,84.8,47.0,56,1.65,Active,Partial,grace.eze641@student.example.com
+STU20260642,Femi,Yusuf,Female,17.0,Ondo,English,300,2022,50.8,64.0,62,2.63,Active,No,femi.yusuf642@student.example.com
+STU20260643,Bola,Eze,Male,26.0,Kogi,,400,2022,47.4,70.0,82,4.6,Graduated,Partial,bola.eze643@student.example.com
+STU20260644,Ifeanyi,Onyeka,Female,17.0,Lagos,Business Administration,300,2025,82.3,76.0,84,4.9,Active,Yes,ifeanyi.onyeka644@student.example.com
+STU20260645,Fatima,Udo,Female,23.0,FCT,Computer Science,100,2024,80.2,83.0,100,2.31,Active,No,fatima.udo645@student.example.com
+STU20260646,Bola,Sani,Female,17.0,Ogun,Biology,100,2023,65.6,42.0,52,2.54,Deferred,Partial,bola.sani646@student.example.com
+STU20260647,Samuel,Okeke,Male,18.0,Katsina,Computer Science,200,2024,80.4,70.0,75,4.16,Active,Yes,samuel.okeke647@student.example.com
+STU20260648,Esther,Adeyemi,Male,30.0,Edo,Political Science,100,2022,78.4,66.0,63,2.84,Deferred,Yes,esther.adeyemi648@student.example.com
+STU20260649,Ngozi,Adeyemi,Female,26.0,Imo,Physics,100,2025,51.9,53.0,61,2.11,Graduated,No,ngozi.adeyemi649@student.example.com
+STU20260650,Ifeanyi,Adebayo,Male,19.0,Ekiti,Mathematics,400,2022,78.3,89.0,57,2.56,Withdrawn,No,ifeanyi.adebayo650@student.example.com
+STU20260651,Femi,Obi,Male,18.0,Delta,Political Science,100,2025,68.2,95.0,91,3.63,Active,Yes,femi.obi651@student.example.com
+STU20260652,Aisha,Sani,Male,24.0,Katsina,Mass Communication,400,2022,59.2,54.0,57,3.12,Active,Partial,aisha.sani652@student.example.com
+STU20260653,Mary,Adebayo,Male,18.0,Taraba,Mass Communication,400,2025,45.7,59.0,35,3.25,Withdrawn,No,mary.adebayo653@student.example.com
+STU20260654,Femi,Danjuma,Female,20.0,Ogun,Chemistry,200,2023,93.7,44.0,87,4.97,Graduated,No,femi.danjuma654@student.example.com
+STU20260655,Peter,Balogun,Male,24.0,Imo,Biology,400,2022,83.3,97.0,82,3.78,Deferred,No,peter.balogun655@student.example.com
+STU20260656,Uche,Okafor,Female,27.0,Kaduna,Biology,200,2022,78.3,53.0,68,4.8,Active,Yes,uche.okafor656@student.example.com
+STU20260657,Uche,Obi,Male,22.0,Kaduna,Microbiology,300,2026,93.2,45.0,59,2.08,Withdrawn,Partial,uche.obi657@student.example.com
+STU20260658,Femi,Udo,Male,20.0,Delta,Mathematics,200,2025,51.0,87.0,46,3.5,Active,Yes,femi.udo658@student.example.com
+STU20260659,Ifeanyi,Danjuma,Male,16.0,Katsina,Microbiology,400,2023,87.6,47.0,43,2.96,Active,Yes,ifeanyi.danjuma659@student.example.com
+STU20260660,Oluwaseun,Nwosu,Female,19.0,Edo,Biology,100,2023,72.6,97.0,58,1.89,Graduated,Yes,oluwaseun.nwosu660@student.example.com
+STU20260661,Emeka,Yusuf,Female,23.0,Kano,Accounting,300,2022,49.4,48.0,56,1.8,Active,No,emeka.yusuf661@student.example.com
+STU20260662,Mary,Bello,Female,16.0,Benue,Biology,100,2025,86.3,42.0,69,1.53,Active,No,mary.bello662@student.example.com
+STU20260663,Mary,Danjuma,Male,28.0,Kwara,Biology,300,2025,63.5,78.0,89,3.89,Active,Yes,mary.danjuma663@student.example.com
+STU20260664,Chika,Okeke,Female,28.0,Adamawa,Chemistry,100,2026,70.1,47.0,35,3.94,Active,Partial,chika.okeke664@student.example.com
+STU20260665,Bola,Balogun,Male,23.0,Adamawa,English,300,2022,67.7,95.0,100,2.16,Withdrawn,Partial,bola.balogun665@student.example.com
+STU20260666,Kelechi,Ojo,Male,19.0,Oyo,Political Science,100,2025,85.7,97.0,86,4.28,Active,Yes,kelechi.ojo666@student.example.com
+STU20260667,Oluwaseun,Nwosu,Male,29.0,Rivers,Business Administration,400,2022,52.0,99.0,39,4.29,Active,Partial,oluwaseun.nwosu667@student.example.com
+STU20260668,Bola,Olawale,Female,19.0,Ebonyi,Economics,400,2024,50.8,56.0,46,4.98,Active,No,bola.olawale668@student.example.com
+STU20260669,Grace,Danjuma,Male,30.0,Bayelsa,Microbiology,300,2023,95.8,50.0,52,3.72,Deferred,Partial,grace.danjuma669@student.example.com
+STU20260670,Amaka,Okeke,Female,22.0,Katsina,Accounting,100,2022,89.5,83.0,90,2.28,Active,Partial,amaka.okeke670@student.example.com
+STU20260671,Ngozi,Bello,Female,25.0,Kogi,Computer Science,200,2025,91.9,82.0,51,4.84,Withdrawn,No,ngozi.bello671@student.example.com
+STU20260672,Chika,Nwosu,Male,24.0,Kwara,Business Administration,300,2023,66.7,63.0,48,3.38,Active,No,chika.nwosu672@student.example.com
+STU20260673,Zainab,Sani,Female,20.0,Kano,Microbiology,400,2023,77.9,53.0,39,2.58,Active,Partial,zainab.sani673@student.example.com
+STU20260674,Femi,Adeyemi,Female,28.0,Anambra,Business Administration,400,2025,90.5,77.0,54,2.24,Active,Partial,femi.adeyemi674@student.example.com
+STU20260675,Ifeanyi,Okafor,Male,24.0,Ondo,Mass Communication,100,2026,68.2,85.0,78,3.16,Graduated,No,ifeanyi.okafor675@student.example.com
+STU20260676,Oluwaseun,Adebayo,Female,27.0,Kogi,Political Science,200,2026,52.2,85.0,47,4.13,Active,Partial,oluwaseun.adebayo676@student.example.com
+STU20260677,Mary,Musa,Female,30.0,Niger,Microbiology,100,2023,57.0,53.0,61,4.12,Active,No,mary.musa677@student.example.com
+STU20260678,Grace,Ibrahim,Female,30.0,Borno,Physics,300,2026,64.6,42.0,47,3.16,Active,Yes,grace.ibrahim678@student.example.com
+STU20260679,Uche,Obi,Female,19.0,Ogun,Microbiology,100,2025,58.2,39.0,50,3.21,Deferred,Partial,uche.obi679@student.example.com
+STU20260680,Femi,Onyeka,Female,26.0,Taraba,English,200,2022,45.6,91.0,82,1.91,Active,Partial,femi.onyeka680@student.example.com
+STU20260681,Mary,Onyeka,Male,27.0,Kogi,Chemistry,200,2022,66.1,47.0,58,5.0,Active,Partial,mary.onyeka681@student.example.com
+STU20260682,Esther,Ibrahim,Male,22.0,Bauchi,Physics,100,2023,75.6,37.0,85,3.38,Withdrawn,Yes,esther.ibrahim682@student.example.com
+STU20260683,Ifeanyi,Sani,Female,27.0,Akwa Ibom,Business Administration,200,2023,75.5,58.0,35,4.3,Active,No,ifeanyi.sani683@student.example.com
+STU20260684,Chinedu,Eze,Male,17.0,Abia,Biology,300,2022,65.0,99.0,73,3.41,Deferred,Partial,chinedu.eze684@student.example.com
+STU20260685,Aisha,Akinyemi,Male,23.0,Yobe,Biology,100,2022,83.2,52.0,97,3.33,Active,Yes,aisha.akinyemi685@student.example.com
+STU20260686,Zainab,Musa,Male,29.0,Kano,Business Administration,400,2022,78.1,62.0,52,2.26,Active,No,zainab.musa686@student.example.com
+STU20260687,Femi,Ibrahim,Female,22.0,Enugu,Accounting,300,2023,97.0,93.0,45,3.87,Graduated,Partial,femi.ibrahim687@student.example.com
+STU20260688,Grace,Nwachukwu,Male,25.0,Ogun,Computer Science,200,2022,90.2,55.0,88,2.61,Active,Partial,grace.nwachukwu688@student.example.com
+STU20260689,Tunde,Akinyemi,Male,22.0,Kano,Business Administration,200,2024,80.2,43.0,77,2.77,Active,No,tunde.akinyemi689@student.example.com
+STU20260690,Bola,Obi,Male,17.0,Benue,Physics,300,2026,74.0,50.0,57,4.56,Deferred,Partial,bola.obi690@student.example.com
+STU20260691,Emeka,Sani,Female,17.0,Nasarawa,Microbiology,400,2025,62.5,41.0,56,4.13,Active,No,emeka.sani691@student.example.com
+STU20260692,Ada,Nwachukwu,Male,27.0,Anambra,Microbiology,300,2023,52.8,54.0,51,3.49,Active,No,ada.nwachukwu692@student.example.com
+STU20260693,Oluwaseun,Ojo,Male,18.0,Oyo,Physics,200,2024,88.9,91.0,80,3.26,Active,Yes,oluwaseun.ojo693@student.example.com
+STU20260694,Aisha,Yusuf,Female,28.0,Bayelsa,Business Administration,100,2022,79.9,75.0,46,1.77,Graduated,Partial,aisha.yusuf694@student.example.com
+STU20260695,Mary,Okafor,Female,22.0,Ondo,Computer Science,200,2022,71.4,100.0,52,3.3,Graduated,Partial,mary.okafor695@student.example.com
+STU20260696,Esther,Balogun,Female,19.0,Edo,Accounting,300,2023,98.1,40.0,92,3.86,Active,Yes,esther.balogun696@student.example.com
+STU20260697,Blessing,Danjuma,Female,22.0,Borno,Mathematics,300,2025,98.3,56.0,82,2.68,Active,Yes,blessing.danjuma697@student.example.com
+STU20260698,Ada,Udo,Female,22.0,Rivers,Chemistry,400,2022,96.1,62.0,74,4.86,Active,Partial,ada.udo698@student.example.com
+STU20260699,Samuel,Okeke,Female,20.0,Ondo,Economics,100,2022,45.3,80.0,48,4.62,Active,Yes,samuel.okeke699@student.example.com
+STU20260700,Amaka,Nwachukwu,Female,24.0,Kaduna,Biology,400,2025,51.8,54.0,87,3.21,Active,No,amaka.nwachukwu700@student.example.com
+STU20260701,Blessing,Ibrahim,Male,24.0,Ebonyi,Business Administration,300,2025,99.4,69.0,48,3.8,Active,Partial,blessing.ibrahim701@student.example.com
+STU20260702,Ngozi,Bello,Male,19.0,Akwa Ibom,Business Administration,200,2025,52.4,71.0,40,2.97,Withdrawn,No,ngozi.bello702@student.example.com
+STU20260703,Tunde,Yusuf,Male,23.0,Yobe,Microbiology,400,2023,62.9,98.0,51,4.18,Active,Yes,tunde.yusuf703@student.example.com
+STU20260704,Ada,Nwosu,Female,18.0,Lagos,Mass Communication,100,2025,45.8,79.0,99,3.9,Active,No,ada.nwosu704@student.example.com
+STU20260705,Mary,Eze,Female,28.0,Imo,Mathematics,100,2024,79.0,89.0,66,4.05,Withdrawn,Yes,mary.eze705@student.example.com
+STU20260706,Grace,Yusuf,Female,19.0,Ekiti,Chemistry,200,2023,83.6,95.0,48,3.26,Active,No,grace.yusuf706@student.example.com
+STU20260707,Chinedu,Onyeka,Female,19.0,Ogun,Mass Communication,300,2023,46.0,53.0,89,2.2,Active,No,chinedu.onyeka707@student.example.com
+STU20260708,Mary,Adeyemi,Male,24.0,Nasarawa,Microbiology,400,2023,61.7,89.0,41,2.44,Active,Yes,mary.adeyemi708@student.example.com
+STU20260709,Ifeanyi,Adeyemi,Female,16.0,Oyo,Business Administration,300,2025,56.7,41.0,76,3.15,Active,No,ifeanyi.adeyemi709@student.example.com
+STU20260710,Tunde,Bello,Male,26.0,Zamfara,Chemistry,300,2023,63.2,,51,4.09,Active,Yes,tunde.bello710@student.example.com
+STU20260711,Daniel,Obi,Female,17.0,Ekiti,Biology,400,2022,79.6,48.0,51,3.61,Active,Partial,daniel.obi711@student.example.com
+STU20260712,Fatima,Okeke,Female,20.0,Ekiti,Mass Communication,300,2026,74.3,95.0,60,2.04,Withdrawn,No,fatima.okeke712@student.example.com
+STU20260713,Samuel,Bello,Female,30.0,Ebonyi,Chemistry,300,2023,71.6,90.0,43,3.33,Active,Partial,samuel.bello713@student.example.com
+STU20260714,Chinedu,Adebayo,Female,27.0,Ebonyi,Political Science,400,2026,82.7,85.0,98,4.55,Graduated,No,chinedu.adebayo714@student.example.com
+STU20260715,Fatima,Onyeka,Female,19.0,Yobe,Political Science,300,2024,53.8,58.0,35,2.26,Deferred,No,fatima.onyeka715@student.example.com
+STU20260716,Oluwaseun,Onyeka,Male,24.0,Akwa Ibom,English,200,2024,57.3,50.0,56,3.37,Deferred,No,oluwaseun.onyeka716@student.example.com
+STU20260717,Chinedu,Olawale,Male,29.0,Kwara,Accounting,300,2023,45.1,61.0,49,2.72,Active,Partial,chinedu.olawale717@student.example.com
+STU20260718,Aisha,Okeke,Female,16.0,Kaduna,Computer Science,100,2025,57.1,36.0,80,4.88,Deferred,No,aisha.okeke718@student.example.com
+STU20260719,Uche,Sani,Male,24.0,Delta,Political Science,200,2025,57.1,61.0,91,2.44,Active,No,uche.sani719@student.example.com
+STU20260720,Amaka,Danjuma,Male,18.0,Edo,English,300,2022,89.9,93.0,58,,Active,Yes,amaka.danjuma720@student.example.com
+STU20260721,Femi,Sani,Male,19.0,Benue,Microbiology,200,2022,49.0,43.0,53,2.36,Active,No,femi.sani721@student.example.com
+STU20260722,Femi,Okafor,Male,17.0,Delta,English,100,2022,52.3,36.0,40,4.2,Withdrawn,Yes,femi.okafor722@student.example.com
+STU20260723,Esther,Okeke,Male,29.0,Ebonyi,Mathematics,300,2025,52.7,45.0,60,4.16,Active,Yes,esther.okeke723@student.example.com
+STU20260724,Esther,Onyeka,Male,26.0,Benue,Physics,400,2023,,50.0,37,1.86,Active,Yes,esther.onyeka724@student.example.com
+STU20260725,Ada,Olawale,Male,22.0,Borno,Political Science,200,2022,64.4,84.0,53,2.5,Active,No,ada.olawale725@student.example.com
+STU20260726,Chika,Eze,Female,25.0,Akwa Ibom,Chemistry,200,2023,64.8,77.0,50,4.74,Active,,chika.eze726@student.example.com
+STU20260727,Fatima,Ibrahim,Male,26.0,Nasarawa,Accounting,300,2025,94.1,89.0,54,3.91,Active,No,fatima.ibrahim727@student.example.com
+STU20260728,Oluwaseun,Eze,Female,28.0,Ogun,Political Science,400,2022,87.8,35.0,54,2.01,Active,No,oluwaseun.eze728@student.example.com
+STU20260729,Peter,Onyeka,Male,18.0,Nasarawa,Economics,400,2025,99.7,46.0,76,2.14,Active,No,peter.onyeka729@student.example.com
+STU20260730,Fatima,Okeke,Male,18.0,FCT,Mass Communication,100,2026,68.0,66.0,84,3.24,Graduated,Partial,fatima.okeke730@student.example.com
+STU20260731,Daniel,Olawale,Female,27.0,Niger,Physics,400,2023,64.9,46.0,65,2.21,Deferred,Yes,daniel.olawale731@student.example.com
+STU20260732,Chika,Balogun,Male,29.0,Imo,Biology,200,2022,70.3,52.0,72,4.42,Graduated,Yes,chika.balogun732@student.example.com
+STU20260733,Oluwaseun,Nwosu,Female,22.0,Sokoto,Chemistry,200,2022,65.4,38.0,89,3.95,Active,Yes,oluwaseun.nwosu733@student.example.com
+STU20260734,Amaka,Olawale,Female,17.0,Zamfara,Microbiology,300,2025,53.2,36.0,88,2.14,Active,No,amaka.olawale734@student.example.com
+STU20260735,Samuel,Okafor,Female,20.0,Yobe,Business Administration,100,2025,48.3,49.0,54,3.75,Graduated,Partial,samuel.okafor735@student.example.com
+STU20260736,Samuel,Akinyemi,Female,27.0,Kano,Accounting,400,2023,61.8,68.0,99,2.3,Graduated,No,samuel.akinyemi736@student.example.com
+STU20260737,Fatima,Adeyemi,Female,19.0,Rivers,Political Science,300,2025,90.2,85.0,58,4.92,Graduated,Yes,fatima.adeyemi737@student.example.com
+STU20260738,Chinedu,Balogun,Male,26.0,Lagos,Computer Science,200,2024,59.8,89.0,59,1.87,Active,Yes,chinedu.balogun738@student.example.com
+STU20260739,Amaka,Adebayo,Female,25.0,Imo,Mathematics,100,2026,55.3,36.0,74,2.21,Active,Partial,amaka.adebayo739@student.example.com
+STU20260740,Mary,Adeyemi,Male,16.0,Katsina,Mass Communication,200,2024,96.9,75.0,46,1.53,Graduated,Partial,mary.adeyemi740@student.example.com
+STU20260741,Chika,Nwosu,Female,27.0,Yobe,Business Administration,100,2026,67.4,47.0,77,4.1,Graduated,No,chika.nwosu741@student.example.com
+STU20260742,Daniel,Adeyemi,Female,20.0,FCT,Biology,200,2023,82.5,55.0,54,1.78,Withdrawn,Partial,daniel.adeyemi742@student.example.com
+STU20260743,David,Sani,Male,26.0,Oyo,Computer Science,400,2023,88.2,78.0,92,2.69,Active,Partial,david.sani743@student.example.com
+STU20260744,Fatima,Eze,Male,18.0,Bayelsa,Political Science,100,2025,89.3,98.0,47,2.0,Active,No,fatima.eze744@student.example.com
+STU20260745,Ifeanyi,Eze,Male,20.0,Kaduna,Political Science,300,2025,49.9,81.0,80,2.13,Active,Yes,ifeanyi.eze745@student.example.com
+STU20260746,Tunde,Udo,Female,23.0,Plateau,Economics,300,2024,92.2,40.0,81,2.9,Active,No,tunde.udo746@student.example.com
+STU20260747,David,Ojo,Female,20.0,Delta,Accounting,300,2025,85.8,40.0,42,2.36,Active,No,david.ojo747@student.example.com
+STU20260748,Amaka,Olawale,Male,22.0,Benue,Accounting,200,2022,64.2,94.0,46,3.14,Deferred,No,amaka.olawale748@student.example.com
+STU20260749,Blessing,Adebayo,Male,22.0,Enugu,Microbiology,400,2022,62.5,77.0,43,4.99,Active,Yes,blessing.adebayo749@student.example.com
+STU20260750,Esther,Nwosu,Male,23.0,Anambra,Economics,400,2025,62.6,53.0,62,1.61,Active,Yes,esther.nwosu750@student.example.com
+STU20260751,Ada,Yusuf,Male,20.0,Bayelsa,Mathematics,400,2025,49.6,67.0,57,1.74,Active,Partial,ada.yusuf751@student.example.com
+STU20260752,Emeka,Ibrahim,Male,29.0,Ebonyi,Biology,300,2025,94.2,41.0,46,3.0,Active,Partial,emeka.ibrahim752@student.example.com
+STU20260753,Oluwaseun,Ibrahim,Female,27.0,Ekiti,Accounting,200,2024,95.2,90.0,80,3.5,Active,Partial,oluwaseun.ibrahim753@student.example.com
+STU20260754,Peter,Okeke,Male,16.0,Borno,English,400,2024,96.4,54.0,93,3.25,Active,Yes,peter.okeke754@student.example.com
+STU20260755,Samuel,Nwosu,Female,26.0,Osun,Microbiology,200,2026,47.0,92.0,47,4.11,Active,No,samuel.nwosu755@student.example.com
+STU20260756,Ngozi,Adebayo,Male,26.0,Yobe,Accounting,400,2025,89.8,36.0,82,1.56,Active,No,ngozi.adebayo756@student.example.com
+STU20260757,Chika,Akinyemi,Male,22.0,Edo,Physics,200,2026,95.9,77.0,49,3.11,Active,No,chika.akinyemi757@student.example.com
+STU20260758,Grace,Yusuf,Female,26.0,Bayelsa,English,100,2026,99.7,71.0,47,4.32,Deferred,Yes,grace.yusuf758@student.example.com
+STU20260759,Mary,Sani,Male,30.0,Osun,Biology,200,2025,72.7,47.0,91,4.32,Active,Yes,mary.sani759@student.example.com
+STU20260760,Ngozi,Danjuma,Male,17.0,Abia,Economics,200,2026,67.7,79.0,94,4.37,Active,Partial,ngozi.danjuma760@student.example.com
+STU20260761,Emeka,Musa,Female,29.0,Abia,Computer Science,200,2024,45.2,88.0,65,4.68,Graduated,Partial,emeka.musa761@student.example.com
+STU20260762,Peter,Sani,Female,21.0,Ondo,Biology,400,2022,97.8,77.0,56,4.97,Graduated,Partial,peter.sani762@student.example.com
+STU20260763,Blessing,Nwosu,Female,26.0,Oyo,Biology,100,2023,67.2,84.0,57,2.61,Active,Partial,blessing.nwosu763@student.example.com
+STU20260764,Daniel,Obi,Female,29.0,Adamawa,Mass Communication,100,2026,97.2,68.0,55,2.21,Active,Partial,daniel.obi764@student.example.com
+STU20260765,Oluwaseun,Akinyemi,Male,30.0,Nasarawa,Business Administration,200,2023,,45.0,83,4.07,Active,Partial,oluwaseun.akinyemi765@student.example.com
+STU20260766,Bola,Obi,Female,28.0,Benue,Accounting,400,2026,60.1,68.0,41,4.77,Active,Yes,bola.obi766@student.example.com
+STU20260767,Aisha,Onyeka,Female,30.0,Ondo,Accounting,400,2022,49.3,58.0,46,4.46,Active,No,aisha.onyeka767@student.example.com
+STU20260768,Uche,Eze,Male,19.0,Ebonyi,Business Administration,300,2022,93.9,88.0,83,3.72,Deferred,Partial,uche.eze768@student.example.com
+STU20260769,Daniel,Sani,Male,29.0,Abia,Business Administration,300,2022,98.7,39.0,50,4.98,Active,Yes,daniel.sani769@student.example.com
+STU20260770,Esther,Okafor,Female,24.0,Adamawa,Economics,200,2023,56.9,100.0,54,2.78,Active,Partial,esther.okafor770@student.example.com
+STU20260771,Zainab,Onyeka,Male,20.0,Rivers,Microbiology,400,2025,97.4,96.0,60,2.72,Active,No,zainab.onyeka771@student.example.com
+STU20260772,Ngozi,Onyeka,Male,18.0,Ebonyi,Biology,400,2025,97.9,60.0,70,1.86,Deferred,No,ngozi.onyeka772@student.example.com
+STU20260773,Fatima,Onyeka,Male,29.0,Niger,English,100,2025,78.4,75.0,48,3.0,Active,Yes,fatima.onyeka773@student.example.com
+STU20260774,David,Onyeka,Male,25.0,Ondo,Computer Science,100,2023,78.2,87.0,72,4.57,Graduated,No,david.onyeka774@student.example.com
+STU20260775,Ifeanyi,Balogun,Male,19.0,Borno,Computer Science,300,2022,81.1,44.0,62,2.8,Graduated,Yes,ifeanyi.balogun775@student.example.com
+STU20260776,Samuel,Udo,Female,28.0,Zamfara,Biology,100,2026,75.9,76.0,64,2.85,Active,Partial,samuel.udo776@student.example.com
+STU20260777,Grace,Eze,Female,25.0,Anambra,Political Science,400,2022,62.5,88.0,90,2.62,Withdrawn,No,grace.eze777@student.example.com
+STU20260778,Tunde,Bello,Female,23.0,Katsina,Computer Science,100,2025,77.5,56.0,76,2.33,Active,No,tunde.bello778@student.example.com
+STU20260779,Chinedu,Akinyemi,Female,30.0,Osun,Microbiology,300,2024,80.5,40.0,78,1.74,Active,No,chinedu.akinyemi779@student.example.com
+STU20260780,Femi,Eze,Male,24.0,Taraba,English,100,2024,78.7,75.0,98,2.88,Deferred,Yes,femi.eze780@student.example.com
+STU20260781,Ada,Olawale,Male,16.0,FCT,Business Administration,100,2023,50.8,36.0,52,2.63,Graduated,No,ada.olawale781@student.example.com
+STU20260782,Esther,Okafor,Female,30.0,Kogi,Accounting,300,2024,93.6,41.0,68,1.65,Active,No,esther.okafor782@student.example.com
+STU20260783,Emeka,Ibrahim,Female,30.0,Osun,English,400,2022,51.6,52.0,93,2.62,Active,Yes,emeka.ibrahim783@student.example.com
+STU20260784,Daniel,Danjuma,Female,26.0,Bayelsa,Mathematics,300,2022,62.7,97.0,70,4.06,Active,Yes,daniel.danjuma784@student.example.com
+STU20260785,Grace,Adebayo,Female,27.0,Enugu,Political Science,400,2023,98.4,44.0,44,1.71,Active,No,grace.adebayo785@student.example.com
+STU20260786,Ngozi,Udo,Male,28.0,Delta,Physics,100,2023,86.8,100.0,75,2.59,Active,No,ngozi.udo786@student.example.com
+STU20260787,Femi,Ojo,Male,29.0,Oyo,Business Administration,300,2026,87.9,100.0,60,2.16,Active,Yes,femi.ojo787@student.example.com
+STU20260788,Samuel,Bello,Male,27.0,Adamawa,Political Science,400,2024,45.9,49.0,65,3.11,Active,Partial,samuel.bello788@student.example.com
+STU20260789,Amaka,Balogun,Male,22.0,Anambra,Political Science,300,2024,66.8,62.0,54,3.01,Active,Partial,amaka.balogun789@student.example.com
+STU20260790,Femi,Yusuf,Male,19.0,Zamfara,Mass Communication,100,2022,67.1,72.0,59,3.58,Active,Yes,femi.yusuf790@student.example.com
+STU20260791,Bola,Bello,Male,16.0,FCT,Chemistry,400,2025,58.1,39.0,69,3.36,Active,Yes,bola.bello791@student.example.com
+STU20260792,Peter,Onyeka,Male,23.0,Katsina,Microbiology,100,2022,88.2,61.0,56,2.72,Active,Partial,peter.onyeka792@student.example.com
+STU20260793,Fatima,Danjuma,Female,27.0,Edo,Economics,400,2023,54.4,74.0,65,3.89,Withdrawn,Partial,fatima.danjuma793@student.example.com
+STU20260794,Mary,Yusuf,Female,21.0,Abia,Chemistry,300,2025,98.6,37.0,57,4.58,Active,No,mary.yusuf794@student.example.com
+STU20260795,Bola,Danjuma,Female,17.0,Zamfara,Physics,200,2023,76.2,40.0,37,4.97,Graduated,Yes,bola.danjuma795@student.example.com
+STU20260796,Aisha,Okeke,Male,23.0,Kaduna,Economics,400,2022,99.4,97.0,79,2.4,Graduated,No,aisha.okeke796@student.example.com
+STU20260797,Oluwaseun,Okeke,Female,30.0,Delta,Mass Communication,200,2023,59.8,96.0,49,3.32,Active,Yes,oluwaseun.okeke797@student.example.com
+STU20260798,Bola,Udo,Male,27.0,Benue,Mathematics,400,2026,56.3,90.0,81,1.81,Active,Partial,bola.udo798@student.example.com
+STU20260799,Chika,Okeke,Male,22.0,Borno,Mass Communication,400,2026,62.0,88.0,70,1.64,Withdrawn,No,chika.okeke799@student.example.com
+STU20260800,Aisha,Bello,Male,16.0,Ebonyi,Mathematics,400,2024,70.6,98.0,53,2.03,Active,No,aisha.bello800@student.example.com
+STU20260801,Ada,Ojo,Male,16.0,Kogi,Computer Science,400,2024,90.4,62.0,71,1.93,Active,Yes,ada.ojo801@student.example.com
+STU20260802,Chinedu,Onyeka,Female,18.0,Bayelsa,Microbiology,300,2023,88.2,79.0,71,3.26,Withdrawn,Yes,chinedu.onyeka802@student.example.com
+STU20260803,Blessing,Udo,Male,30.0,Imo,English,400,2025,57.0,45.0,72,3.16,Active,Yes,blessing.udo803@student.example.com
+STU20260804,Emeka,Musa,Male,25.0,Cross River,English,200,2024,76.0,74.0,57,3.88,Active,,emeka.musa804@student.example.com
+STU20260805,Ngozi,Musa,Female,20.0,Ogun,Mass Communication,100,2023,76.2,45.0,73,3.7,Active,Partial,ngozi.musa805@student.example.com
+STU20260806,Kelechi,Nwachukwu,Male,30.0,Rivers,Computer Science,100,2025,64.5,80.0,94,3.13,Active,Yes,kelechi.nwachukwu806@student.example.com
+STU20260807,Fatima,Musa,Male,28.0,Anambra,Mass Communication,200,2025,65.5,66.0,100,3.67,Active,No,fatima.musa807@student.example.com
+STU20260808,David,Ojo,Female,29.0,Lagos,Chemistry,100,2024,48.0,41.0,45,4.4,Active,Partial,david.ojo808@student.example.com
+STU20260809,Kelechi,Adeyemi,Male,17.0,Cross River,Biology,200,2024,83.6,100.0,41,3.31,Active,Partial,kelechi.adeyemi809@student.example.com
+STU20260810,Ada,Danjuma,Female,25.0,Zamfara,Accounting,200,2023,48.7,60.0,49,2.04,Active,Yes,ada.danjuma810@student.example.com
+STU20260811,David,Ojo,Female,22.0,Imo,Physics,300,2026,61.5,42.0,50,3.19,Active,Partial,david.ojo811@student.example.com
+STU20260812,Fatima,Bello,Female,22.0,Ebonyi,Physics,200,2025,55.2,53.0,37,4.36,Active,No,fatima.bello812@student.example.com
+STU20260813,Grace,Bello,Female,25.0,Rivers,Mass Communication,400,2023,81.7,98.0,82,2.87,Active,No,grace.bello813@student.example.com
+STU20260814,Tunde,Udo,Male,22.0,Akwa Ibom,Economics,200,2025,46.9,36.0,73,3.78,Deferred,No,tunde.udo814@student.example.com
+STU20260815,Emeka,Okafor,Male,18.0,Zamfara,Mass Communication,100,2023,92.1,80.0,99,,Active,No,emeka.okafor815@student.example.com
+STU20260816,Uche,Udo,Male,21.0,Ondo,Accounting,400,2025,,93.0,52,4.17,Withdrawn,Partial,uche.udo816@student.example.com
+STU20260817,Grace,Ibrahim,Male,25.0,Ondo,Accounting,100,2022,52.1,99.0,68,2.63,Deferred,Yes,grace.ibrahim817@student.example.com
+STU20260818,Bola,Bello,Female,26.0,Imo,Accounting,200,2025,96.4,48.0,98,3.17,Graduated,No,bola.bello818@student.example.com
+STU20260819,Amaka,Adeyemi,Male,25.0,Niger,Chemistry,100,2023,47.1,67.0,49,4.12,Active,Partial,amaka.adeyemi819@student.example.com
+STU20260820,Samuel,Obi,Male,18.0,FCT,Biology,200,2025,58.9,60.0,60,3.03,Graduated,Yes,samuel.obi820@student.example.com
+STU20260821,Amaka,Udo,Female,16.0,Niger,Mass Communication,100,2024,,47.0,61,1.99,Active,Partial,amaka.udo821@student.example.com
+STU20260822,Peter,Nwachukwu,Male,23.0,Nasarawa,Chemistry,200,2022,76.4,59.0,61,3.16,Active,Partial,peter.nwachukwu822@student.example.com
+STU20260823,Femi,Eze,Female,25.0,Taraba,Biology,100,2026,,45.0,51,2.54,Active,Yes,femi.eze823@student.example.com
+STU20260824,Bola,Musa,Female,30.0,Katsina,Accounting,200,2026,83.7,67.0,84,1.74,Deferred,Partial,bola.musa824@student.example.com
+STU20260825,Aisha,Obi,Male,25.0,Adamawa,Computer Science,300,2025,77.1,42.0,49,4.78,Active,No,aisha.obi825@student.example.com
+STU20260826,Chinedu,Nwosu,Female,19.0,Nasarawa,Accounting,400,2026,58.0,77.0,42,1.76,Graduated,Yes,chinedu.nwosu826@student.example.com
+STU20260827,Esther,Danjuma,Female,18.0,Nasarawa,Mass Communication,400,2024,50.7,69.0,40,3.24,Graduated,Yes,esther.danjuma827@student.example.com
+STU20260828,Ada,Adeyemi,Male,16.0,Anambra,Mass Communication,400,2023,82.5,60.0,83,4.08,Active,No,ada.adeyemi828@student.example.com
+STU20260829,Esther,Nwosu,Male,17.0,Nasarawa,Biology,300,2025,94.3,91.0,50,4.94,Deferred,Yes,esther.nwosu829@student.example.com
+STU20260830,Bola,Eze,Female,25.0,Abia,Microbiology,200,2022,67.7,36.0,64,4.13,Active,Yes,bola.eze830@student.example.com
+STU20260831,Samuel,Ibrahim,Female,20.0,Katsina,Business Administration,400,2025,64.2,40.0,75,3.79,Active,Partial,samuel.ibrahim831@student.example.com
+STU20260832,Amaka,Eze,Female,20.0,Plateau,Microbiology,300,2024,83.8,61.0,98,4.35,Graduated,No,amaka.eze832@student.example.com
+STU20260833,Uche,Olawale,Female,24.0,Nasarawa,Mass Communication,400,2024,83.4,69.0,75,3.26,Active,Yes,uche.olawale833@student.example.com
+STU20260834,David,Olawale,Female,20.0,Akwa Ibom,Biology,400,2025,65.5,61.0,50,4.36,Withdrawn,Yes,david.olawale834@student.example.com
+STU20260835,Mary,Adeyemi,Female,20.0,Kano,Chemistry,400,2025,61.5,70.0,84,4.88,Active,No,mary.adeyemi835@student.example.com
+STU20260836,Femi,Ojo,Female,16.0,Kogi,Computer Science,300,2022,65.9,63.0,61,3.81,Deferred,No,femi.ojo836@student.example.com
+STU20260837,Emeka,Udo,Male,19.0,Anambra,Accounting,400,2024,84.9,38.0,78,3.68,Deferred,Partial,emeka.udo837@student.example.com
+STU20260838,Samuel,Yusuf,Female,25.0,Cross River,Computer Science,300,2024,97.8,68.0,55,3.14,Active,Yes,samuel.yusuf838@student.example.com
+STU20260839,Esther,Musa,Male,21.0,Abia,Accounting,300,2026,78.9,85.0,39,2.77,Active,No,esther.musa839@student.example.com
+STU20260840,Ifeanyi,Ojo,Male,23.0,Sokoto,English,200,2025,45.5,37.0,91,1.63,Active,Yes,ifeanyi.ojo840@student.example.com
+STU20260841,Emeka,Sani,Male,24.0,Kaduna,Political Science,200,2023,69.2,75.0,43,2.4,Active,Yes,emeka.sani841@student.example.com
+STU20260842,Fatima,Adeyemi,Male,19.0,Kwara,Computer Science,200,2022,55.1,49.0,39,3.27,Withdrawn,No,fatima.adeyemi842@student.example.com
+STU20260843,Emeka,Okafor,Female,26.0,Yobe,Political Science,100,2026,78.0,80.0,40,2.72,Active,Yes,emeka.okafor843@student.example.com
+STU20260844,Kelechi,Udo,Female,21.0,Adamawa,Economics,300,2024,80.3,88.0,44,4.57,Withdrawn,Partial,kelechi.udo844@student.example.com
+STU20260845,Chika,Danjuma,Female,20.0,Adamawa,Accounting,200,2024,65.3,38.0,55,2.52,Active,Partial,chika.danjuma845@student.example.com
+STU20260846,David,Udo,Female,27.0,Ogun,English,100,2022,65.8,79.0,62,3.54,Withdrawn,Yes,david.udo846@student.example.com
+STU20260847,Daniel,Nwachukwu,Female,25.0,Sokoto,English,400,2024,91.6,88.0,50,3.35,Active,Partial,daniel.nwachukwu847@student.example.com
+STU20260848,Aisha,Olawale,Female,21.0,Imo,Political Science,400,2024,57.7,66.0,81,,Active,Partial,aisha.olawale848@student.example.com
+STU20260849,David,Eze,Male,30.0,FCT,Chemistry,200,2026,78.3,81.0,96,3.07,Active,No,david.eze849@student.example.com
+STU20260850,Grace,Udo,Female,26.0,Bayelsa,Mass Communication,400,2026,88.8,52.0,68,2.7,Withdrawn,Partial,grace.udo850@student.example.com
+STU20260851,Mary,Adebayo,Male,30.0,Sokoto,Microbiology,100,2023,45.9,58.0,93,1.92,Deferred,No,mary.adebayo851@student.example.com
+STU20260852,Ada,Ibrahim,Male,17.0,Nasarawa,Business Administration,400,2026,92.7,51.0,100,4.72,Active,No,ada.ibrahim852@student.example.com
+STU20260853,Tunde,Okeke,Male,30.0,Plateau,Mass Communication,400,2025,99.7,78.0,48,1.66,Active,No,tunde.okeke853@student.example.com
+STU20260854,Oluwaseun,Nwosu,Male,27.0,Rivers,Mass Communication,300,2025,49.6,58.0,100,4.63,Active,Partial,oluwaseun.nwosu854@student.example.com
+STU20260855,Daniel,Onyeka,Male,28.0,Katsina,Economics,400,2024,61.4,47.0,64,2.69,Graduated,Yes,daniel.onyeka855@student.example.com
+STU20260856,Chinedu,Adebayo,Female,22.0,Katsina,Mathematics,400,2025,50.5,70.0,75,2.5,Active,Yes,chinedu.adebayo856@student.example.com
+STU20260857,Aisha,Onyeka,Female,25.0,Yobe,Business Administration,100,2026,81.7,48.0,64,1.99,Deferred,Partial,aisha.onyeka857@student.example.com
+STU20260858,Esther,Adebayo,Male,16.0,Plateau,Physics,200,2025,65.3,97.0,38,2.49,Active,Yes,esther.adebayo858@student.example.com
+STU20260859,Oluwaseun,Bello,Male,,Borno,Economics,100,2023,59.5,90.0,98,4.53,Graduated,No,oluwaseun.bello859@student.example.com
+STU20260860,Ifeanyi,Nwachukwu,Female,21.0,Kwara,Computer Science,400,2022,79.7,70.0,93,3.29,Deferred,Partial,ifeanyi.nwachukwu860@student.example.com
+STU20260861,Kelechi,Adebayo,Female,29.0,Ekiti,Mathematics,400,2023,58.5,39.0,36,3.55,Active,Yes,kelechi.adebayo861@student.example.com
+STU20260862,Peter,Danjuma,Female,20.0,Abia,Mass Communication,100,2025,79.9,51.0,60,1.81,Active,Yes,peter.danjuma862@student.example.com
+STU20260863,Oluwaseun,Ibrahim,Female,16.0,Nasarawa,Political Science,200,2024,78.7,88.0,68,3.71,Graduated,No,oluwaseun.ibrahim863@student.example.com
+STU20260864,Grace,Danjuma,Female,23.0,Borno,Mathematics,400,2025,74.9,85.0,80,2.53,Active,Partial,grace.danjuma864@student.example.com
+STU20260865,Blessing,Bello,Male,18.0,Cross River,Political Science,400,2026,81.3,94.0,75,2.72,Active,Yes,blessing.bello865@student.example.com
+STU20260866,Ada,Musa,Female,20.0,Kwara,Mathematics,300,2025,93.9,99.0,62,4.24,Active,No,ada.musa866@student.example.com
+STU20260867,Blessing,Obi,Female,20.0,Kogi,Political Science,400,2023,71.7,41.0,69,2.27,Active,Yes,blessing.obi867@student.example.com
+STU20260868,Esther,Adebayo,Female,28.0,Ogun,Accounting,300,2024,52.1,49.0,77,3.39,Graduated,Partial,esther.adebayo868@student.example.com
+STU20260869,Amaka,Adeyemi,Male,24.0,FCT,,200,2024,74.5,61.0,81,4.95,Active,Yes,amaka.adeyemi869@student.example.com
+STU20260870,Esther,Olawale,Male,16.0,Taraba,Computer Science,200,2024,86.5,39.0,37,3.34,Active,Yes,esther.olawale870@student.example.com
+STU20260871,Uche,Olawale,Male,16.0,Cross River,Microbiology,300,2022,89.7,69.0,50,2.82,Active,Partial,uche.olawale871@student.example.com
+STU20260872,Peter,Yusuf,Male,16.0,Ekiti,Chemistry,300,2024,50.3,36.0,54,3.56,Active,Partial,peter.yusuf872@student.example.com
+STU20260873,Ada,Musa,Male,20.0,Ogun,Mathematics,400,2022,50.5,93.0,60,4.89,Active,No,ada.musa873@student.example.com
+STU20260874,Esther,Onyeka,Male,23.0,Ondo,Economics,100,2025,58.5,71.0,99,1.56,Active,Yes,esther.onyeka874@student.example.com
+STU20260875,Femi,Olawale,Male,23.0,Delta,English,100,2022,76.0,82.0,96,3.75,Active,Yes,femi.olawale875@student.example.com
+STU20260876,Mary,Udo,Female,19.0,Anambra,Political Science,300,2025,67.2,45.0,53,4.43,Active,No,mary.udo876@student.example.com
+STU20260877,Zainab,Adeyemi,Male,21.0,Taraba,Economics,200,2024,59.7,87.0,35,2.23,Active,No,zainab.adeyemi877@student.example.com
+STU20260878,David,Akinyemi,Female,29.0,Abia,Business Administration,100,2023,68.4,45.0,48,1.77,Active,Yes,david.akinyemi878@student.example.com
+STU20260879,Chinedu,Yusuf,Male,,Ondo,Computer Science,300,2022,52.7,56.0,97,4.56,Active,No,chinedu.yusuf879@student.example.com
+STU20260880,Peter,Onyeka,Male,24.0,Zamfara,English,200,2026,76.0,76.0,82,2.08,Withdrawn,No,peter.onyeka880@student.example.com
+STU20260881,David,Sani,Female,20.0,Ebonyi,Physics,400,2022,56.6,95.0,94,,Active,Yes,david.sani881@student.example.com
+STU20260882,Zainab,Danjuma,Female,17.0,Rivers,Economics,100,2022,83.6,35.0,74,2.2,Active,Partial,zainab.danjuma882@student.example.com
+STU20260883,Ifeanyi,Eze,Male,21.0,Katsina,Mass Communication,300,2024,79.6,63.0,79,4.75,Active,No,ifeanyi.eze883@student.example.com
+STU20260884,Emeka,Akinyemi,Female,24.0,Kano,Business Administration,300,2026,77.6,60.0,44,1.86,Active,Partial,emeka.akinyemi884@student.example.com
+STU20260885,Daniel,Obi,Female,21.0,Enugu,Accounting,200,2023,56.5,70.0,95,1.51,Active,Yes,daniel.obi885@student.example.com
+STU20260886,Kelechi,Eze,Male,30.0,Kwara,Mathematics,100,2023,73.1,41.0,52,3.04,Active,No,kelechi.eze886@student.example.com
+STU20260887,Femi,Danjuma,Female,21.0,Ebonyi,English,300,2023,74.2,74.0,75,4.59,Graduated,Partial,femi.danjuma887@student.example.com
+STU20260888,Samuel,Danjuma,Male,27.0,Edo,Computer Science,300,2025,75.7,67.0,50,3.02,Graduated,No,samuel.danjuma888@student.example.com
+STU20260889,Peter,Yusuf,Female,19.0,Ekiti,Political Science,300,2026,65.6,59.0,83,4.77,Active,Partial,peter.yusuf889@student.example.com
+STU20260890,Aisha,Okeke,Male,17.0,Akwa Ibom,English,300,2025,72.7,82.0,67,1.55,Active,Partial,aisha.okeke890@student.example.com
+STU20260891,Oluwaseun,Onyeka,Male,20.0,Taraba,Business Administration,400,2026,92.5,42.0,38,4.75,Graduated,Yes,oluwaseun.onyeka891@student.example.com
+STU20260892,Chika,Okafor,Male,25.0,Borno,Computer Science,400,2022,92.9,54.0,57,1.96,Active,Partial,chika.okafor892@student.example.com
+STU20260893,Emeka,Adebayo,Male,26.0,Ebonyi,Chemistry,300,2026,91.1,37.0,77,4.47,Active,Partial,emeka.adebayo893@student.example.com
+STU20260894,Femi,Yusuf,Female,29.0,Kano,Accounting,200,2025,55.6,42.0,43,4.16,Active,Partial,femi.yusuf894@student.example.com
+STU20260895,Ngozi,Nwachukwu,Female,22.0,Lagos,Political Science,100,2026,62.1,57.0,35,3.46,Deferred,Yes,ngozi.nwachukwu895@student.example.com
+STU20260896,Tunde,Eze,Female,18.0,Ebonyi,Computer Science,200,2024,62.5,46.0,58,3.69,Active,Partial,tunde.eze896@student.example.com
+STU20260897,Bola,Musa,Male,29.0,Edo,Mathematics,200,2026,62.1,59.0,51,2.83,Active,Yes,bola.musa897@student.example.com
+STU20260898,Ngozi,Onyeka,Male,30.0,Kaduna,Accounting,400,2024,98.9,60.0,57,2.41,Active,No,ngozi.onyeka898@student.example.com
+STU20260899,Uche,Nwachukwu,Female,23.0,Enugu,Microbiology,400,2024,97.2,56.0,39,3.55,Active,Partial,uche.nwachukwu899@student.example.com
+STU20260900,Aisha,Adebayo,Male,21.0,Enugu,Political Science,300,2022,50.0,99.0,69,4.21,Deferred,Partial,aisha.adebayo900@student.example.com
+STU20260901,Grace,Ibrahim,Male,23.0,Akwa Ibom,Economics,100,2024,77.3,52.0,94,2.8,Deferred,Yes,grace.ibrahim901@student.example.com
+STU20260902,Ifeanyi,Yusuf,Male,23.0,Kogi,Business Administration,400,2026,80.6,77.0,78,1.85,Active,Yes,ifeanyi.yusuf902@student.example.com
+STU20260903,Samuel,Sani,Male,23.0,Lagos,Political Science,400,2024,71.0,90.0,86,2.35,Active,Yes,samuel.sani903@student.example.com
+STU20260904,David,Bello,Female,22.0,Ebonyi,Physics,200,2024,97.5,89.0,69,2.9,Deferred,Partial,david.bello904@student.example.com
+STU20260905,David,Adebayo,Female,25.0,Bayelsa,Mathematics,200,2024,81.5,52.0,51,4.26,Active,Yes,david.adebayo905@student.example.com
+STU20260906,Samuel,Okafor,Female,26.0,Edo,Biology,200,2025,93.6,53.0,60,2.55,Active,Yes,samuel.okafor906@student.example.com
+STU20260907,Zainab,Akinyemi,Male,29.0,Ondo,Microbiology,200,2025,71.3,82.0,35,2.71,Active,No,zainab.akinyemi907@student.example.com
+STU20260908,Oluwaseun,Olawale,Female,28.0,Ondo,Economics,300,2025,52.1,47.0,84,4.17,Active,Partial,oluwaseun.olawale908@student.example.com
+STU20260909,Amaka,Balogun,Female,23.0,Niger,Economics,300,2026,93.7,38.0,63,2.12,Graduated,Partial,amaka.balogun909@student.example.com
+STU20260910,Fatima,Obi,Female,30.0,Kogi,Mass Communication,100,2024,,44.0,64,2.16,Active,Yes,fatima.obi910@student.example.com
+STU20260911,Blessing,Nwosu,Male,20.0,Osun,Business Administration,200,2025,82.1,74.0,84,3.18,Active,Yes,blessing.nwosu911@student.example.com
+STU20260912,Samuel,Eze,Male,21.0,Cross River,Chemistry,400,2025,89.2,47.0,86,1.54,Active,Partial,samuel.eze912@student.example.com
+STU20260913,Grace,Obi,Female,22.0,Plateau,Physics,300,2025,68.4,41.0,73,4.1,Graduated,Partial,grace.obi913@student.example.com
+STU20260914,Chika,Bello,Female,28.0,Delta,Computer Science,300,2026,74.2,57.0,89,2.84,Active,Partial,chika.bello914@student.example.com
+STU20260915,Fatima,Ojo,Male,22.0,Rivers,Economics,100,2026,60.5,41.0,94,1.93,Active,No,fatima.ojo915@student.example.com
+STU20260916,Blessing,Okeke,Male,26.0,Osun,Computer Science,400,2024,74.9,72.0,38,2.13,Active,Yes,blessing.okeke916@student.example.com
+STU20260917,Fatima,Bello,Female,21.0,Cross River,Microbiology,200,2025,58.7,39.0,85,1.79,Active,No,fatima.bello917@student.example.com
+STU20260918,Chika,Ojo,Female,27.0,Delta,Chemistry,100,2025,47.2,66.0,93,2.64,Active,Partial,chika.ojo918@student.example.com
+STU20260919,Amaka,Okeke,Male,30.0,Bayelsa,Mass Communication,100,2023,67.0,73.0,89,2.14,Active,No,amaka.okeke919@student.example.com
+STU20260920,Fatima,Nwachukwu,Male,24.0,Kano,Microbiology,200,2024,65.6,66.0,41,3.16,Active,Yes,fatima.nwachukwu920@student.example.com
+STU20260921,Fatima,Obi,Female,30.0,Osun,English,200,2024,60.0,58.0,71,2.93,Active,Partial,fatima.obi921@student.example.com
+STU20260922,Uche,Okeke,Female,17.0,Katsina,Microbiology,400,2026,46.0,,63,2.64,Active,Partial,uche.okeke922@student.example.com
+STU20260923,Kelechi,Akinyemi,Male,22.0,Delta,Political Science,400,2023,63.9,95.0,36,2.62,Active,Yes,kelechi.akinyemi923@student.example.com
+STU20260924,Grace,Obi,Female,20.0,Taraba,Physics,300,2022,,86.0,39,3.5,Active,Partial,grace.obi924@student.example.com
+STU20260925,Chika,Musa,Female,20.0,Nasarawa,Chemistry,400,2025,82.1,75.0,92,1.6,Withdrawn,Yes,chika.musa925@student.example.com
+STU20260926,Aisha,Akinyemi,Male,27.0,Borno,Accounting,400,2023,65.6,97.0,65,3.38,Active,Yes,aisha.akinyemi926@student.example.com
+STU20260927,Daniel,Musa,Female,18.0,Osun,Chemistry,300,2024,75.3,55.0,86,2.73,Graduated,Partial,daniel.musa927@student.example.com
+STU20260928,Tunde,Okeke,Male,24.0,Katsina,Political Science,200,2023,92.2,85.0,63,3.23,Active,Yes,tunde.okeke928@student.example.com
+STU20260929,Esther,Okeke,Male,28.0,Osun,Mass Communication,200,2022,82.6,94.0,57,1.84,Active,Yes,esther.okeke929@student.example.com
+STU20260930,Fatima,Sani,Female,24.0,Ebonyi,Chemistry,400,2022,97.0,45.0,87,2.64,Withdrawn,Yes,fatima.sani930@student.example.com
+STU20260931,Peter,Sani,Female,30.0,Rivers,Economics,200,2023,92.5,84.0,100,4.48,Active,Partial,peter.sani931@student.example.com
+STU20260932,Ngozi,Okeke,Male,18.0,Rivers,Biology,400,2023,94.2,72.0,43,2.22,Graduated,No,ngozi.okeke932@student.example.com
+STU20260933,David,Bello,Female,28.0,Abia,Microbiology,100,2025,58.5,77.0,55,4.03,Deferred,No,david.bello933@student.example.com
+STU20260934,Femi,Eze,Female,28.0,Plateau,Political Science,100,2024,93.6,88.0,68,3.38,Graduated,Partial,femi.eze934@student.example.com
+STU20260935,Chinedu,Balogun,Female,22.0,Kaduna,Chemistry,100,2023,68.6,100.0,91,1.93,Active,Partial,chinedu.balogun935@student.example.com
+STU20260936,Kelechi,Nwosu,Female,30.0,Rivers,Microbiology,400,2023,56.6,66.0,96,1.84,Graduated,No,kelechi.nwosu936@student.example.com
+STU20260937,Aisha,Ojo,Female,21.0,Delta,Physics,300,2022,76.3,92.0,68,3.58,Active,No,aisha.ojo937@student.example.com
+STU20260938,Daniel,Balogun,Male,27.0,Sokoto,Microbiology,400,2024,97.0,72.0,74,2.05,Active,Partial,daniel.balogun938@student.example.com
+STU20260939,Zainab,Nwosu,Female,25.0,Kogi,Business Administration,100,2024,59.2,72.0,84,2.3,Active,Partial,zainab.nwosu939@student.example.com
+STU20260940,Peter,Nwachukwu,Male,22.0,Zamfara,Economics,400,2025,98.5,96.0,56,3.75,Active,,peter.nwachukwu940@student.example.com
+STU20260941,Mary,Ibrahim,Female,23.0,Kogi,Biology,200,2023,81.8,83.0,36,1.73,Active,Partial,mary.ibrahim941@student.example.com
+STU20260942,Tunde,Adebayo,Female,21.0,Zamfara,Biology,200,2024,76.3,98.0,93,3.74,Active,No,tunde.adebayo942@student.example.com
+STU20260943,Uche,Bello,Female,21.0,Anambra,Political Science,200,2023,59.9,99.0,43,4.87,Active,Partial,uche.bello943@student.example.com
+STU20260944,Ifeanyi,Olawale,Male,19.0,Bayelsa,Microbiology,200,2022,47.2,93.0,57,3.63,Deferred,Yes,ifeanyi.olawale944@student.example.com
+STU20260945,David,Musa,Male,16.0,Rivers,Accounting,100,2024,58.4,61.0,64,4.17,Graduated,Yes,david.musa945@student.example.com
+STU20260946,Ngozi,Danjuma,Female,17.0,Taraba,Mathematics,100,2026,71.2,91.0,45,1.85,Active,Yes,ngozi.danjuma946@student.example.com
+STU20260947,Peter,Ojo,Male,28.0,Kano,Political Science,200,2024,99.6,59.0,93,2.38,Active,Partial,peter.ojo947@student.example.com
+STU20260948,Aisha,Musa,Male,20.0,Plateau,Accounting,200,2025,60.1,,78,3.46,Active,Partial,aisha.musa948@student.example.com
+STU20260949,Mary,Danjuma,Female,18.0,Plateau,Economics,200,2023,86.8,57.0,43,3.86,Graduated,Yes,mary.danjuma949@student.example.com
+STU20260950,Ngozi,Musa,Male,24.0,Enugu,Chemistry,200,2024,87.2,74.0,75,3.15,Active,No,ngozi.musa950@student.example.com
+STU20260951,Ifeanyi,Ibrahim,Male,25.0,Kano,Biology,300,2025,97.6,55.0,76,4.93,Deferred,No,ifeanyi.ibrahim951@student.example.com
+STU20260952,Chika,Nwosu,Male,20.0,Oyo,Chemistry,400,2025,90.6,77.0,80,2.6,Active,No,chika.nwosu952@student.example.com
+STU20260953,Chinedu,Yusuf,Female,21.0,Enugu,English,300,2024,87.2,52.0,93,1.57,Graduated,Yes,chinedu.yusuf953@student.example.com
+STU20260954,Kelechi,Yusuf,Female,28.0,Yobe,Political Science,300,2022,75.7,83.0,76,4.09,Active,Yes,kelechi.yusuf954@student.example.com
+STU20260955,Kelechi,Danjuma,Male,27.0,Imo,Mathematics,400,2022,88.0,95.0,40,2.87,Active,Partial,kelechi.danjuma955@student.example.com
+STU20260956,Kelechi,Onyeka,Female,24.0,Bauchi,Economics,400,2023,95.8,82.0,91,1.89,Deferred,Partial,kelechi.onyeka956@student.example.com
+STU20260957,Aisha,Udo,Male,19.0,Zamfara,Mathematics,100,2023,58.5,46.0,91,3.5,Graduated,Yes,aisha.udo957@student.example.com
+STU20260958,Oluwaseun,Okeke,Male,29.0,Rivers,Biology,400,2024,86.1,81.0,92,2.25,Active,Partial,oluwaseun.okeke958@student.example.com
+STU20260959,Oluwaseun,Onyeka,Male,20.0,Taraba,Computer Science,100,2026,51.6,37.0,52,2.94,Active,Partial,oluwaseun.onyeka959@student.example.com
+STU20260960,Blessing,Adeyemi,Female,24.0,Bauchi,Chemistry,100,2026,60.5,,97,2.67,Graduated,Partial,blessing.adeyemi960@student.example.com
+STU20260961,Ifeanyi,Nwachukwu,Female,29.0,Oyo,Mathematics,400,2025,78.6,46.0,94,4.98,Deferred,Partial,ifeanyi.nwachukwu961@student.example.com
+STU20260962,Zainab,Okeke,Male,17.0,Adamawa,Mass Communication,300,2022,70.0,58.0,78,4.23,Active,No,zainab.okeke962@student.example.com
+STU20260963,Ada,Okafor,Male,19.0,Rivers,English,200,2026,53.3,76.0,89,4.49,Deferred,Partial,ada.okafor963@student.example.com
+STU20260964,Daniel,Nwosu,Female,19.0,Cross River,Physics,300,2022,62.0,53.0,61,1.85,Active,No,daniel.nwosu964@student.example.com
+STU20260965,Bola,Adebayo,Female,19.0,Nasarawa,Computer Science,200,2025,68.3,73.0,55,2.45,Active,No,bola.adebayo965@student.example.com
+STU20260966,Ada,Ojo,Female,29.0,Enugu,Mass Communication,100,2022,47.7,61.0,83,3.03,Withdrawn,Partial,ada.ojo966@student.example.com
+STU20260967,Daniel,Nwachukwu,Male,17.0,Kwara,Mass Communication,200,2023,51.6,55.0,61,3.21,Withdrawn,Partial,daniel.nwachukwu967@student.example.com
+STU20260968,Chika,Danjuma,Male,20.0,Osun,Mass Communication,100,2024,97.0,100.0,49,1.56,Active,No,chika.danjuma968@student.example.com
+STU20260969,Amaka,Yusuf,Male,29.0,Sokoto,Computer Science,300,2024,100.0,73.0,64,1.8,Active,Yes,amaka.yusuf969@student.example.com
+STU20260970,Ifeanyi,Udo,Female,16.0,Anambra,Chemistry,200,2024,52.7,51.0,54,3.14,Active,No,ifeanyi.udo970@student.example.com
+STU20260971,Ifeanyi,Yusuf,Female,18.0,Niger,Accounting,200,2022,85.8,57.0,54,4.34,Active,No,ifeanyi.yusuf971@student.example.com
+STU20260972,Femi,Balogun,Female,30.0,Sokoto,Computer Science,200,2025,46.6,68.0,76,1.59,Active,No,femi.balogun972@student.example.com
+STU20260973,Fatima,Nwachukwu,Female,18.0,Osun,Accounting,100,2025,45.8,55.0,47,4.64,Active,No,fatima.nwachukwu973@student.example.com
+STU20260974,Esther,Ojo,Male,18.0,Cross River,Economics,300,2026,71.2,35.0,74,4.65,Active,Yes,esther.ojo974@student.example.com
+STU20260975,Mary,Danjuma,Female,27.0,FCT,English,100,2022,57.1,60.0,51,1.95,Graduated,No,mary.danjuma975@student.example.com
+STU20260976,Fatima,Bello,Male,19.0,Rivers,English,300,2023,55.2,63.0,67,3.81,Active,No,fatima.bello976@student.example.com
+STU20260977,Grace,Nwosu,Female,25.0,Abia,Business Administration,100,2023,79.8,39.0,84,4.28,Active,No,grace.nwosu977@student.example.com
+STU20260978,Ada,Udo,Male,23.0,Plateau,Biology,400,2026,55.3,96.0,79,4.54,Active,No,ada.udo978@student.example.com
+STU20260979,Tunde,Onyeka,Male,26.0,Lagos,Political Science,400,2022,63.5,100.0,78,4.62,Active,No,tunde.onyeka979@student.example.com
+STU20260980,David,Onyeka,Female,17.0,Benue,Biology,400,2022,80.3,81.0,89,4.88,Active,Partial,david.onyeka980@student.example.com
+STU20260981,Aisha,Nwosu,Female,29.0,Yobe,Business Administration,400,2026,69.9,79.0,74,3.44,Active,Partial,aisha.nwosu981@student.example.com
+STU20260982,Bola,Okafor,Female,19.0,Niger,Physics,200,2026,76.0,,54,3.36,Active,Yes,bola.okafor982@student.example.com
+STU20260983,Tunde,Ibrahim,Male,26.0,Ekiti,Mathematics,100,2025,74.7,63.0,54,4.84,Active,Partial,tunde.ibrahim983@student.example.com
+STU20260984,Blessing,Danjuma,Female,23.0,Kaduna,Microbiology,300,2023,84.7,76.0,52,2.55,Deferred,Partial,blessing.danjuma984@student.example.com
+STU20260985,Fatima,Eze,Female,16.0,Ondo,Business Administration,400,2025,52.9,87.0,52,4.38,Active,Yes,fatima.eze985@student.example.com
+STU20260986,Chika,Eze,Female,19.0,Enugu,Political Science,200,2024,94.1,70.0,52,1.93,Graduated,Yes,chika.eze986@student.example.com
+STU20260987,Uche,Bello,Female,24.0,Plateau,Mathematics,100,2026,87.4,74.0,48,3.59,Graduated,No,uche.bello987@student.example.com
+STU20260988,Zainab,Eze,Male,,Borno,English,400,2025,97.2,78.0,69,1.64,Active,Partial,zainab.eze988@student.example.com
+STU20260989,Oluwaseun,Danjuma,Male,28.0,Imo,English,400,2025,73.8,72.0,63,1.81,Active,Partial,oluwaseun.danjuma989@student.example.com
+STU20260990,Tunde,Onyeka,Male,29.0,Nasarawa,Accounting,100,2022,80.2,70.0,67,2.65,Graduated,No,tunde.onyeka990@student.example.com
+STU20260991,Bola,Udo,Male,23.0,Ogun,Chemistry,400,2022,81.6,63.0,90,1.86,Active,Partial,bola.udo991@student.example.com
+STU20260992,Uche,Bello,Male,25.0,Ondo,Microbiology,100,2024,98.2,47.0,50,2.34,Active,No,uche.bello992@student.example.com
+STU20260993,Samuel,Udo,Male,29.0,Adamawa,Biology,200,2022,89.7,39.0,86,3.7,Active,No,samuel.udo993@student.example.com
+STU20260994,Tunde,Musa,Male,30.0,Nasarawa,English,300,2024,85.1,87.0,38,4.47,Withdrawn,Yes,tunde.musa994@student.example.com
+STU20260995,Emeka,Ojo,Male,28.0,Ebonyi,Biology,300,2025,70.2,41.0,76,4.97,Graduated,Yes,emeka.ojo995@student.example.com
+STU20260996,Mary,Eze,Female,21.0,Ondo,Economics,400,2023,62.4,80.0,64,2.57,Graduated,Yes,mary.eze996@student.example.com
+STU20260997,Emeka,Danjuma,Female,21.0,Kwara,Computer Science,100,2023,94.3,78.0,91,4.14,Active,Partial,emeka.danjuma997@student.example.com
+STU20260998,Oluwaseun,Akinyemi,Female,20.0,Bayelsa,Microbiology,400,2024,79.0,57.0,85,1.77,Active,No,oluwaseun.akinyemi998@student.example.com
+STU20260999,Esther,Balogun,Male,22.0,Bayelsa,Economics,200,2025,50.7,52.0,84,4.85,Graduated,Yes,esther.balogun999@student.example.com
+STU20261000,Esther,Nwosu,Female,26.0,Imo,Biology,400,2023,72.2,70.0,38,4.42,Active,No,esther.nwosu1000@student.example.com
